@@ -1,46 +1,78 @@
 Professor: Mark Snyder
 Department: Computer Science
 Institution: George Mason University
-Overall Rating: 4.7/5 (based on 129 ratings)
+Overall Rating: 4.7/5
 Difficulty Rating: 2.8/5
 Would Take Again: 95%
 Source: https://www.ratemyprofessors.com/professor/1621871
+Source_Type: RMP
 
 --- Review 1 ---
 Course: CS463
 Date: Dec 23, 2025
+Year: 2025
 Quality: 3.0 | Difficulty: 3.0
 Grade: A
 Would Take Again: Yes
-"This course has a lot of content, but the bulk of the grade is dependent on the homework, so exams don't matter as much."
+Tags: Extra credit, Clear grading criteria, Lots of homework
+"This course has a lot of content, but the bulk of the grade is dependent on the homework, so exams don't matter as much. Lectures are dry, but make sure to come in for quizzes and harder topics. Overall, he's a good professor and the class is not too difficult, but the content itself is uninteresting."
 
 --- Review 2 ---
 Course: CS463
 Date: Dec 3, 2025
+Year: 2025
 Quality: 5.0 | Difficulty: 4.0
 Grade: A-
 Would Take Again: Yes
-"Class is like CS330 and CS310 combined, but easier in both topics. Lots of homeworks which are either super easy or really hard."
+Tags: Extra credit, Inspirational, Lots of homework
+"Class is like CS330 and CS310 combined, but easier in both topics. However, since it's like CS330 and CS310, it's still a difficult course. Quizzes are chill, midterm is mid, lots of homeworks which are either super easy or really hard and he does drop one. Good professor."
 
 --- Review 3 ---
 Course: CS463
 Date: May 14, 2025
+Year: 2025
 Quality: 5.0 | Difficulty: 1.0
 Grade: A+
 Would Take Again: Yes
-"Professor Snyder is highly conscientious. He is an effective instructor and also a nice guy overall."
+Tags: Extra credit
+"Professor Snyder is highly conscientious. Lectures are quite dense and the man is extremely punctual. CS463 is graded on homework, tests, and quizzes; all were easy (except maybe Haskell concurrency) and a fair reflection of the learning outcomes. He is an effective instructor and also a nice guy overall."
 
 --- Review 4 ---
 Course: CS367
 Date: Dec 12, 2024
+Year: 2024
 Quality: 5.0 | Difficulty: 1.0
+Grade: Not listed
 Would Take Again: Yes
+Tags: N/A
 "Haven't even taken his classes yet, I've met him before and already know he's the GOAT."
 
 --- Review 5 ---
 Course: CS463
 Date: Dec 11, 2024
+Year: 2024
 Quality: 4.0 | Difficulty: 2.0
 Grade: A
 Would Take Again: Yes
-"He's a really great professor who cares about his students. He keeps lectures pretty entertaining."
+Tags: Extra credit, Amazing lectures, Lecture heavy
+"He's a really great professor who cares about his students. If you want an easy A I would attend the lectures, he keeps them pretty entertaining. There is a good amount of homework but they don't take too long and he has extra credit opportunities everywhere. The only issue is that he isn't accommodating in terms of his schedule."
+
+--- Review 6 ---
+Course: CS463
+Date: Dec 11, 2024
+Year: 2024
+Quality: 4.0 | Difficulty: 2.0
+Grade: B
+Would Take Again: Yes
+Tags: Extra credit, Amazing lectures, Lecture heavy
+"Professor Snyder is amazing. His lectures are super clear and he's always willing to help in office hours. The class has a lot of homework, but it's very doable. I found unstuck AI and ChatGPT helpful for prepping."
+
+--- Review 7 ---
+Course: CS463
+Date: Dec 11, 2024
+Year: 2024
+Quality: 5.0 | Difficulty: 2.0
+Grade: A
+Would Take Again: Yes
+Tags: Accessible outside class, Amazing lectures, Lecture heavy, Caring
+"One of the best professors here IMO. His lectures are great and if you still don't get something, he's amazing in office hours. Not the easiest class, but he makes it a breeze. Homeworks are fair, quizzes and tests are basically the homework but simpler (he's just testing for your knowledge, and not ability to weed out trick questions)."

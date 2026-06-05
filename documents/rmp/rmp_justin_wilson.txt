@@ -4,45 +4,74 @@ Institution: George Mason University
 Overall Rating: 5.0/5
 Difficulty Rating: 2.1/5
 Source: https://www.ratemyprofessors.com/professor/2943034
+Source_Type: RMP
 
 --- Review 1 ---
 Course: CS222
 Date: Apr 30, 2026
+Year: 2026
 Quality: 5.0 | Difficulty: 1.0
+Grade: Not sure yet
 Would Take Again: Yes
-Tags: Extra credit, gives good feedback, caring
-"He is an amazing professor who genuinely cares about his students. He will do everything in his power to make sure you pass. Highly recommend taking him for CS222."
+Tags: Extra credit, Gives good feedback, Caring
+"He is an amazing professor who genuinely cares about his students. He will do anything to help if you're confused. He offers chances to earn points back on the midterm, a 'life happens' pass for one project, and a revision pass to improve your grade if you didn't like it. You also get cheat sheets for exams. Plus, he's good at teaching in general."
 
 --- Review 2 ---
 Course: CS222
 Date: Apr 27, 2026
+Year: 2026
 Quality: 5.0 | Difficulty: 2.0
+Grade: Not sure yet
 Would Take Again: Yes
-Tags: Extra credit, accessible outside class
-"Only problem is 7 a.m class other than that, professor Wilson is very caring and makes sure students understand the material. Lots of extra credit opportunities."
+Tags: Get ready to read, Extra credit, Accessible outside class
+"Only problem is 7 a.m class other than that, professor Wilson is very caring, gives extra credit, will respond to your email as soon as he can, and helps you with any questions you have about your assignment or lab. He provides lecture recordings and tells you what type of questions to expect for the exams."
 
 --- Review 3 ---
 Course: CS222
 Date: Apr 21, 2026
+Year: 2026
 Quality: 5.0 | Difficulty: 2.0
+Grade: Not sure yet
 Would Take Again: Yes
-Tags: Extra credit, gives good feedback, caring
-"He is one of the best professors at GMU, genuinely so caring about his students. Hard to do badly in his class because he gives lots of extra credit and really wants you to succeed."
+Tags: Extra credit, Gives good feedback, Caring
+"He is one of the best professors at GMU, genuinely so caring about his students and understanding that not everyone is good at coding. It's honestly hard to do bad in his class because he gives LOTS of extra credit. Attendance isn't mandatory but if you come to class you get 2 points, 15 points back on your midterm, and cheat sheets for every test."
 
 --- Review 4 ---
 Course: CS222
 Date: Dec 19, 2025
+Year: 2025
 Quality: 5.0 | Difficulty: 2.0
 Grade: A+
 Would Take Again: Yes
-Tags: Amazing lectures, caring, accessible outside class
-"This is easily one of the best professors I have ever had so far. He is so caring and wants every student to succeed. His lectures are engaging and he is always available outside class."
+Tags: Amazing lectures, Caring, Accessible outside class
+"This is easily one of the best professors I have ever had so far. He would stay up really late answering any questions students have, give amazing feedback on homework, PAs, exams. Offers up to 15 points back on your midterm as well. Tells you what the exam is going to be about like what the specific question is but changed up. This guy is the GOAT."
 
 --- Review 5 ---
 Course: CS222
 Date: May 2, 2025
+Year: 2025
 Quality: 5.0 | Difficulty: 2.0
 Grade: A+
 Would Take Again: Yes
-Tags: Extra credit, amazing lectures, caring
-"Best professor you'll ever take. He cares about the class and wants you to do well. Gives tons of extra credit and his lectures are top notch."
+Tags: Extra credit, Amazing lectures, Caring
+"Best professor you'll ever take. He cares about the class and wants you to pass. It's hard to fail in his class. The only problem is his timing, which is 7:30-8:45 am, but it's worth it. You get +2 points on the HWs every time you show up, and his exams are not hard. You can bring 2 pages for the midterm and 4 for the final. Definitely take him!"
+
+--- Review 6 ---
+Course: CS222
+Date: Feb 5, 2025
+Year: 2025
+Quality: 5.0 | Difficulty: 2.0
+Grade: A+
+Would Take Again: Yes
+Tags: Extra credit, Amazing lectures, Caring
+"professor wilson is so caring and nice. he's super accessible outside of class and always willing to answer questions. he genuinely cared about us understanding the material and wanted us to do well. he gave us great feedback on assignments & projects. one of the nicest professors ive had at GMU hands down!"
+
+--- Review 7 ---
+Course: CS222
+Date: Dec 26, 2024
+Year: 2024
+Quality: 5.0 | Difficulty: 2.0
+Grade: A+
+Would Take Again: Yes
+Tags: Accessible outside class, Online savy
+"Amazing professor although the lectures were a bit dull. The homeworks and personal assignments can be tricky and take some time; however, he does help a lot. He allows a page of notes for the midterm and two pages for the final, which can be typed. Exams aren't too hard either as long as you understand the basics. One of the best professors imo."

@@ -1,44 +1,77 @@
 Professor: Katherine Russell
 Department: Computer Science
 Institution: George Mason University
-Overall Rating: 3.2/5 (based on 147 ratings)
+Overall Rating: 3.2/5
 Difficulty Rating: 3.8/5
 Source: https://www.ratemyprofessors.com/professor/2038141
+Source_Type: RMP
 
 --- Review 1 ---
 Course: CS310
 Date: Apr 20, 2026
+Year: 2026
 Quality: 5.0 | Difficulty: 3.0
 Grade: A-
 Would Take Again: Yes
-"Her lectures are interactive and allow for collaboration with peers. She explains very well with her analogies and high energy."
+Tags: Amazing lectures, Helpful
+"I don't know why her rating isn't higher. Her lectures are interactive and allow for collaboration with peers. She explains very well with her analogies and high energy. She seems to truly want students to have fun learning. CS310 is a hard class in general, but she can be strict sometimes."
 
 --- Review 2 ---
 Course: CS483
 Date: Jan 20, 2026
+Year: 2026
 Quality: 5.0 | Difficulty: 3.0
 Grade: A+
 Would Take Again: Yes
+Tags: Participation matters, Amazing lectures, Helpful
 "Has clear slideshow notes and is great at explaining complicated concepts. Tests are challenging but very fair."
 
 --- Review 3 ---
 Course: CS310
 Date: Dec 17, 2025
+Year: 2025
 Quality: 5.0 | Difficulty: 2.0
 Grade: C
 Would Take Again: Yes
-"Study CS310 religiously, go to her office hours, and study as much as possible if you want to pass."
+Tags: Extra credit, Amazing lectures, Helpful
+"Took CS310 in summer 2025 and passed it on my first try. Even though there were 7 projects, they were pretty small compared to regular semester projects. Study CS310 religiously, go to her office hours, and study as much as possible if you want to pass this class. Even though it was hard, I enjoyed this more than any other CS class."
 
 --- Review 4 ---
 Course: CS310
 Date: Nov 13, 2025
+Year: 2025
 Quality: 2.0 | Difficulty: 5.0
-"Tests are going to be harder than previous CS classes, and projects will take a while."
+Grade: Rather not say
+Would Take Again: Not specified
+Tags: Tough grader, Caring, Test heavy
+"Tests are going to be harder than previous CS classes, and projects will take a while. Prioritize your midterm grade! If you procrastinate a lot and know you miss class, wouldn't recommend."
 
 --- Review 5 ---
 Course: CS310
 Date: Oct 16, 2025
+Year: 2025
 Quality: 5.0 | Difficulty: 3.0
 Grade: A+
 Would Take Again: Yes
-"She teaches hard concepts and somehow makes them easy. The study guide really helped me prepare."
+Tags: Amazing lectures, Lecture heavy
+"I took Prof. Russell's course this past summer, and although the 330 course was condensed into 8 weeks, her lectures were still amazing. She teaches hard concepts and somehow makes them easy. The study guide really helped me prepare for the final, and her office hours helped me grasp more difficult concepts like Dijkstra's and Red-Black Trees."
+
+--- Review 6 ---
+Course: CS310
+Date: Aug 4, 2025
+Year: 2025
+Quality: 3.0 | Difficulty: 3.0
+Grade: A+
+Would Take Again: Yes
+Tags: Test heavy, Lecture heavy
+"As an asynchronous summer class the grading weights were tougher than a regular semester, but if you do the exercises along with her in her lecture you'll do well. There's programming projects, but coding isn't the main aspect of this class or for her exams. Her study guides are a good preview of her exam style."
+
+--- Review 7 ---
+Course: CS310
+Date: Oct 16, 2025
+Year: 2025
+Quality: 1.0 | Difficulty: 5.0
+Grade: Rather not say
+Would Take Again: Yes
+Tags: Get ready to read, Lecture heavy, Participation matters
+"Had this teacher for an async summer class and she had us do 7 coding projects which took me at minimum a couple hours to do and before I took the final (which was in person) I had a solid B+/A- and I didn't do to well on the final and she bumped me down to an F. Complete waste of time and money and my GPA suffered. Only F I ever received."

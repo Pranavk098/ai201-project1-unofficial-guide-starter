@@ -1,40 +1,77 @@
 Professor: Ahmed Zaman
 Department: Computer Science
 Institution: George Mason University
-Overall Rating: 4.4/5 (based on 59 ratings)
+Overall Rating: 4.4/5
 Difficulty Rating: 2.6/5
 Source: https://www.ratemyprofessors.com/professor/2737110
+Source_Type: RMP
 
 --- Review 1 ---
 Course: CS330
 Date: Jun 1, 2026
+Year: 2026
 Quality: 5.0 | Difficulty: 3.0
 Grade: A
+Would Take Again: Yes
+Tags: Gives good feedback, Lots of homework, Test heavy
 "Makes difficult concepts presented in CS330 easy. Office hours are essential if you're confused."
 
 --- Review 2 ---
 Course: CS330
 Date: May 28, 2026
+Year: 2026
 Quality: 5.0 | Difficulty: 3.0
 Grade: A-
-"CS330 concepts can be a bit unintuitive but his lectures helped simplify things a lot. Quizzes were moderately difficult but the midterm and final were near identical to the practice exams."
+Would Take Again: Yes
+Tags: N/A
+"CS330 concepts can be a bit unintuitive but his lectures helped simplify things a lot, even if attendance isn't mandatory. Quizzes were moderately difficult but the midterm and final were near identical to the practice exams he offered."
 
 --- Review 3 ---
 Course: CS330
 Date: May 14, 2026
+Year: 2026
 Quality: 5.0 | Difficulty: 4.0
 Grade: A+
-"Lectures are fast-paced and dense, but extremely rewarding. He is very patient. Exams are very fair and similar to the MCQ quizzes and FRQ homework."
+Would Take Again: Yes
+Tags: Amazing lectures, Lecture heavy
+"Lectures are fast-paced and dense, but extremely rewarding. He makes complicated concepts easy to understand and is very patient with questions. Exams are very fair and similar to MCQ quizzes and FRQ homework."
 
 --- Review 4 ---
 Course: CS330
 Date: Apr 5, 2026
+Year: 2026
 Quality: 5.0 | Difficulty: 3.0
-"He is a great professor because he is passionate about teaching. He converts large and complex problems into smaller ones and is easy to understand."
+Grade: Not sure yet
+Would Take Again: Yes
+Tags: Participation matters, Amazing lectures, Lecture heavy
+"He is great because he is passionate about teaching. If you have questions, please go to office hours and you will get an A or a B in the class. CS330 is a dense and non-intuitive course. The great thing is, he converts large and complex problems into smaller ones and is easy to understand."
 
 --- Review 5 ---
 Course: CS330
 Date: Dec 23, 2025
+Year: 2025
 Quality: 5.0 | Difficulty: 2.0
 Grade: A
-"Really good professor. Just show up and pay attention and you'll ace the class."
+Would Take Again: Yes
+Tags: Clear grading criteria, Gives good feedback
+"Really good professor. Weekly quiz on your own time plus homework which is easy. Two exams which are very similar to the sample exams he gives. Just show up and pay attention and you'll ace the class."
+
+--- Review 6 ---
+Course: CS330
+Date: Dec 21, 2025
+Year: 2025
+Quality: 1.0 | Difficulty: 3.0
+Grade: A
+Would Take Again: Yes
+Tags: Clear grading criteria, Gives good feedback
+"He requires buying a $60+ book written by another CS professor, which is mandatory. I observed 5 students cheating during the final exam, but his four TAs and he did nothing. He emailed everyone, claiming pride in the class average, which is all time high when cheating is permitted!!!"
+
+--- Review 7 ---
+Course: CS330
+Date: Dec 20, 2025
+Year: 2025
+Quality: 5.0 | Difficulty: 2.0
+Grade: A
+Would Take Again: Yes
+Tags: Clear grading criteria, Gives good feedback
+"Amazing prof. Clearly explains concepts and how to solve practice problems. Makes sure everyone understands the content before moving on. Class layout was 1/2 new content, 1/2 review every week. Weekly take-home quizzes + HW, but they're short + manageable. Super reasonable exams as well. My only issue was the long time slot (2:40hr once a week)."

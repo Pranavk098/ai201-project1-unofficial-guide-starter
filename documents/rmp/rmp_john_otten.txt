@@ -4,33 +4,74 @@ Institution: George Mason University
 Overall Rating: 3.5/5
 Difficulty Rating: 2.8/5
 Source: https://www.ratemyprofessors.com/professor/1903402
+Source_Type: RMP
 
 --- Review 1 ---
 Course: CS222
 Date: Apr 30, 2026
+Year: 2026
 Quality: 2.0 | Difficulty: 4.0
-"Otten is a solid lecturer and the assignments are helpful for learning. However, the in-class quizzes being 40% of the grade felt excessive. His classroom demeanor can also be harsh when calling out students for phone use."
+Grade: B
+Would Take Again: Not specified
+Tags: Participation matters, Lecture heavy, Test heavy
+"Otten is a solid lecturer and the assignments are helpful for learning. However, the in-class quizzes being 40% of the grade felt excessive. His classroom demeanor can also be harsh, as he may call out students for things like using electronics or arriving late, which can get uncomfortable and excessive."
 
 --- Review 2 ---
 Course: CS306
 Date: Dec 30, 2025
+Year: 2025
 Quality: 5.0 | Difficulty: 3.0
-"Professor Otten's enthusiasm for the course content is apparent which made his lectures interesting. Overall a nice and extremely fair professor."
+Grade: A
+Would Take Again: Yes
+Tags: Get ready to read, Participation matters, Gives good feedback
+"Professor Otten's enthusiasm for the course content is apparent which made his lectures interesting. This is a reading and writing-heavy course. Professor Otten is accessible outside of class, especially on Piazza and email. Overall a nice and extremely fair professor. Show up to lecture and complete the assigned readings before class to do well."
 
 --- Review 3 ---
 Course: CS110
 Date: Dec 21, 2025
+Year: 2025
 Quality: 3.0 | Difficulty: 2.0
-"He's great at lecturing but he is incredibly disruptive and disrespectful to the class regarding phone policy. It felt like almost half the class time was him just calling out people for using their phones."
+Grade: A
+Would Take Again: Yes
+Tags: Clear grading criteria, Lecture heavy
+"He's great at lecturing but he is incredibly disruptive and disrespectful to the class. It felt like almost half the class time was him just calling out people for using electronics or him saying that people don't belong and they should change their major."
 
 --- Review 4 ---
 Course: CS110
 Date: Dec 19, 2025
+Year: 2025
 Quality: 3.0 | Difficulty: 1.0
-"The professor is a great lecturer, but his obsession with the no electronic devices rules dragged down lectures."
+Grade: A
+Would Take Again: Not specified
+Tags: Participation matters, Group projects
+"The course as a whole is pretty easy, just make sure to show up to class to get participation credit. You should get an A with little work outside of class. The professor is a great lecturer, but his obsession with the no electronic devices rule dragged down lectures. He calls someone out every lecture, sometimes going up the aisle, wasting time."
 
 --- Review 5 ---
 Course: CS110
 Date: Dec 18, 2025
+Year: 2025
 Quality: 3.0 | Difficulty: 3.0
-"The class overall wasn't too bad. No phone use of any kind is permitted though. I felt that interrupting the lecture to ask students to put the phone away was unnecessary and disruptive."
+Grade: A
+Would Take Again: Yes
+Tags: Participation matters, Lots of homework, Lecture heavy
+"The class overall wasn't too bad, as long as you studied for big exams and were present, you would have most of the content you need to pass. No phone use of any kind is permitted though, which is a fair request, but I felt that interrupting the lecture to ask students to put the phone away was a little unnecessary at times."
+
+--- Review 6 ---
+Course: CS110
+Date: Dec 17, 2025
+Year: 2025
+Quality: 3.0 | Difficulty: 2.0
+Grade: A
+Would Take Again: Yes
+Tags: Participation matters
+"Easy class to be honest. Just look over the slides and you'll be straight. While there is a textbook, there is no need to get it as none of the material on the textbook was on the exam, beyond what was on the slides. Majority of classes, there is class participation. Just pull up, do the participation, and dip. Simple."
+
+--- Review 7 ---
+Course: CS110
+Date: Dec 16, 2025
+Year: 2025
+Quality: 4.0 | Difficulty: 3.0
+Grade: A
+Would Take Again: Yes
+Tags: Participation matters, Lots of homework, Lecture heavy
+"Decent lecturer, but spends a lot of time answering easily lookup-able questions, so we don't cover the whole content. Puzzles were fun, and gave lots of EC at the end. Only main issue is assignments are a lot of busy work (Like convert 2829102 to binary) and exams had unnecessary trivia. A bit of a useless class, but Prof is good. Keep off phones."

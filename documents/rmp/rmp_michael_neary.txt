@@ -1,46 +1,77 @@
 Professor: Michael Neary
 Department: Computer Science
 Institution: George Mason University
-Overall Rating: 4.7/5 (based on 39 ratings)
+Overall Rating: 4.7/5
 Difficulty Rating: 3.5/5
 Source: https://www.ratemyprofessors.com/professor/2426252
+Source_Type: RMP
 
 --- Review 1 ---
 Course: CS112
 Date: Oct 28, 2021
+Year: 2021
 Quality: 5.0 | Difficulty: 1.0
+Grade: Not listed
 Would Take Again: Yes
+Tags: N/A
 "I loved taking his class. If you have a chance, take him!"
 
 --- Review 2 ---
 Course: CS112
 Date: Sep 11, 2021
+Year: 2021
 Quality: 5.0 | Difficulty: 4.0
 Grade: C
 Would Take Again: Yes
-Attendance: Not Mandatory
-"Learned programming fundamentals well. Notes that three incomplete assignments hurt the grade but emphasizes personal effort over external resources."
+Tags: N/A
+"This was my first real class where I actually had to program. I learned a lot in this class. I do not care that I received a C. Realize that this is a class where YOU are going to do the programming. Not some online resource or classmates. Use Python tutor and work through the logic alone. There were 3 assignments I could not complete fully."
 
 --- Review 3 ---
 Course: CS112
 Date: Jun 3, 2021
+Year: 2021
 Quality: 1.0 | Difficulty: 4.0
 Grade: F
 Would Take Again: No
-"This professor was one of the worst I have ever taken. He claimed I plagiarized a submission and reported me to the conduct board."
+Tags: N/A
+"This professor was one of the worst I have ever taken. My code was apparently too similar to another student's so he claimed I plagiarized it and reported me to the conduct board. It sounds like he does this to a lot of students just randomly so beware of that if you decide to take his class."
 
 --- Review 4 ---
 Course: CS112
 Date: May 17, 2021
+Year: 2021
 Quality: 5.0 | Difficulty: 4.0
 Grade: A
 Would Take Again: Yes
-"Professor Neary is a real gem. He genuinely wants you to do well and is rooting for you."
+Tags: Respected, Hilarious, Caring
+"Professor Neary is a real gem. He is so kind, and down to earth with the students. I loved having him as my first CS professor. He made my introduction into the field very enjoyable. He's one of those rare professors that genuinely wants you to do well and is rooting for you. His lectures were great and he was always accessible outside of class."
 
 --- Review 5 ---
 Course: CS112
 Date: Feb 27, 2021
+Year: 2021
 Quality: 5.0 | Difficulty: 4.0
 Grade: A
-Attendance: Mandatory
-"Professor Neary made taking my first computer science class a blast. He is down to earth with his students and ensures they weren't too stressed about difficulty and pacing."
+Would Take Again: Yes
+Tags: Clear grading criteria, Hilarious, Amazing lectures
+"Professor Neary made taking my first computer science class a blast. He was down to earth with his students and always ensured we were not too stressed about the difficulty and pacing of the class. Lectures were very helpful: always ensured to answer questions and explain homework and upcoming tests. Overall a joy to be in his class."
+
+--- Review 6 ---
+Course: CS112
+Date: Jan 24, 2021
+Year: 2021
+Quality: 5.0 | Difficulty: 4.0
+Grade: A
+Would Take Again: Yes
+Tags: Respected, Hilarious, Amazing lectures
+"I have nothing but praise for this prof. The course itself can be very challenging and have a huge workload, regardless of what prof you have. However, he works really hard around this to keep students engaged in a fun and relatable way. He does lots of examples and walkthroughs on the assignments. Hes pretty funny too. Take him if you can!"
+
+--- Review 7 ---
+Course: CS112
+Date: Jan 19, 2021
+Year: 2021
+Quality: 5.0 | Difficulty: 4.0
+Grade: A
+Would Take Again: Yes
+Tags: Clear grading criteria, Hilarious, Lots of homework
+"CS 112 is a tough course no matter what, but it is definitely best taken with Professor Neary. He is vey relatable to students, which keeps class engaging. Class consists of weekly programming assignments, labs, and online interactive textbook readings. There are two midterms and a final. Class will have unscheduled participation checks."

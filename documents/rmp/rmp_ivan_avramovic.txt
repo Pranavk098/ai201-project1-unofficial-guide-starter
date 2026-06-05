@@ -1,44 +1,77 @@
 Professor: Ivan Avramovic
 Department: Computer Science
 Institution: George Mason University
-Overall Rating: 4.6/5 (based on 94 ratings)
+Overall Rating: 4.6/5
 Difficulty Rating: 2.9/5
 Source: https://www.ratemyprofessors.com/professor/2380599
+Source_Type: RMP
 
 --- Review 1 ---
 Course: CS330
 Date: Apr 28, 2026
+Year: 2026
 Quality: 5.0 | Difficulty: 2.0
 Grade: B
 Would Take Again: Yes
+Tags: Inspirational, Caring, Respected
 "An absolute shining star. This is the first time I'm taking the time to leave a review because I want more students to be aware of him. Spectacular professor, has video lessons on everything in Canvas so you could miss a few days and not worry. No ego at all, will answer any question."
 
 --- Review 2 ---
 Course: CS330
 Date: Apr 1, 2026
+Year: 2026
 Quality: 5.0 | Difficulty: 4.0
+Grade: Not sure yet
 Would Take Again: Yes
-"Great lecturer, and posts lectures online. However, 100% of your grade is exams and quizzes. Online quizzes can be quite tricky due to wording. In-class quizzes (he calls them assessments) are quite tough due to 15 minute time limit and require a little thought."
+Tags: Amazing lectures, Lecture heavy, Test heavy
+"Great lecturer, and posts lectures online. However, 100% of your grade is exams and quizzes. Online quizzes can be quite tricky due to wording. In-class quizzes (he calls them assessments) are quite tough due to 15 minute time limit and require a little thought. Midterm wasn't too bad as he dropped a question and curved."
 
 --- Review 3 ---
 Course: CS483
 Date: Dec 30, 2025
+Year: 2025
 Quality: 5.0 | Difficulty: 2.0
 Grade: A
 Would Take Again: Yes
-"He literally is one of the best in the department. Kind and great at teaching. Take him if you can!"
+Tags: Amazing lectures, Clear grading criteria, Gives good feedback
+"He literally is one of the best in the department. Kind and great at teaching. The absolute goat. Take him if you can!"
 
 --- Review 4 ---
 Course: CS483
 Date: Dec 19, 2025
+Year: 2025
 Quality: 5.0 | Difficulty: 3.0
 Grade: A
 Would Take Again: Yes
-"This guy is absolutely great. He's so good at making the dense material common sense or extremely easy to understand."
+Tags: Inspirational, Caring, Lecture heavy
+"This guy is the literal goat. He's so good at making the dense material common sense or extremely easy to understand. Very charitable on exams too. Overall, amazing professor and great lecturer. Please do go to his lectures — it's truly a privilege to be in his class, so don't waste it!"
 
 --- Review 5 ---
 Course: CS483
 Date: Dec 16, 2025
+Year: 2025
 Quality: 5.0 | Difficulty: 3.0
+Grade: Not sure yet
 Would Take Again: Yes
-"This is one of the few CS professor goats. He's incredibly understanding, helpful and a great educator who you can tell prioritizes student education over grading and percentages."
+Tags: Amazing lectures, Clear grading criteria, Caring
+"This is one of the few CS professor goats. He's incredibly understanding, helpful and a great educator who prioritizes student education over grading and percentages. If you reach out to him, he is willing to work with you. Tests are fair, but not necessarily easy — prioritize your assessment grades!"
+
+--- Review 6 ---
+Course: CS367
+Date: May 17, 2025
+Year: 2025
+Quality: 5.0 | Difficulty: 3.0
+Grade: Not sure yet
+Would Take Again: Yes
+Tags: Amazing lectures, Respected, Clear grading criteria, Caring
+"By far one of my favorite cs professors I've ever had. Thoroughly explains concepts and drills them into your brain. Project heavy, be sure to start early and develop a understanding of the course material in order to pass. Tests were fairly difficult but I believe that it was fair game. Would take another course with him if I could."
+
+--- Review 7 ---
+Course: CS367
+Date: May 15, 2025
+Year: 2025
+Quality: 5.0 | Difficulty: 2.0
+Grade: Not sure yet
+Would Take Again: Yes
+Tags: Respected, Clear grading criteria, Caring
+"Overall great professor and great at explaining topics. I would definitely take another course with him in the future and highly recommend him to others."

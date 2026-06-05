@@ -1,52 +1,77 @@
 Professor: Wing Lam
 Department: Computer Science
 Institution: George Mason University
-Overall Rating: 4.0/5 (based on 8 ratings)
+Overall Rating: 4.0/5
 Difficulty Rating: 3.9/5
 Source: https://www.ratemyprofessors.com/professor/2787175
+Source_Type: RMP
 
 --- Review 1 ---
 Course: SWE437
 Date: Dec 17, 2025
+Year: 2025
 Quality: 1.0 | Difficulty: 5.0
-Attendance: Mandatory
+Grade: Not specified
+Would Take Again: Not specified
 Tags: Tough grader, Test heavy, Graded by few things
-"I found this class harder than CS211 and CS310 combined. Quizzes are a big part of the grade, and he makes the quiz super hard intentionally. If you can, take the class with another professor."
+"I found this class harder than CS211 and CS310 combined. Quizzes are a big part of the grade, and he makes the quiz super hard intentionally, and he looks proud of it. Take this class with another professor if you can. He gets confused during the lecture and sounds like he doesn't know what he is talking about. Worst CS/SWE professor ever."
 
 --- Review 2 ---
 Course: SWE437
 Date: Dec 10, 2025
+Year: 2025
 Quality: 4.0 | Difficulty: 4.0
 Grade: B+
 Would Take Again: Yes
-Attendance: Mandatory
 Tags: Tough grader, Participation matters, Test heavy
-"Prof Lam is an inspiration. You'll be anxious about each quiz two weeks in advance, but there's no better way he could've structured the course. You genuinely learn the material."
+"I don't write reviews, but genuinely, Prof Lam is an inspiration. His quizzes and exams are quite difficult, and you'll be anxious about each quiz two weeks in advance, but there's no better way he could've structured the course. I learned a lot, I recommend."
 
 --- Review 3 ---
 Course: SWE437
 Date: Sep 26, 2025
+Year: 2025
 Quality: 4.0 | Difficulty: 5.0
-Attendance: Not Mandatory
+Grade: Not sure yet
+Would Take Again: Not specified
 Tags: Tough grader, Test heavy
 "The quizzes are insane."
 
 --- Review 4 ---
 Course: SWE437
 Date: Mar 25, 2025
+Year: 2025
 Quality: 4.0 | Difficulty: 3.0
 Grade: B
 Would Take Again: Yes
-Attendance: Mandatory
 Tags: Group projects, Clear grading criteria, Lots of homework
-"Professor Lam is great. I use a lot of the principles taught at my current job. Gives second chances on daily quizzes."
+"Professor Lam is great, the class was interesting overall and I use a lot of the principles taught at my current job. There's quite a lot of material and homework to get through. Unit Testing is one of the main topics taught, so if you're interested in that, take this class. Lenient grader, gives 2nd chances on daily quizzes."
 
 --- Review 5 ---
 Course: SWE637
 Date: Aug 7, 2023
+Year: 2023
 Quality: 5.0 | Difficulty: 3.0
 Grade: A
 Would Take Again: Yes
-Attendance: Mandatory
 Tags: Clear grading criteria, Caring, Accessible outside class
-"Wing Lam was the only professor at GMU that made me enjoy learning software engineering. The best professor I have had at GMU."
+"Wing Lam was the only professor at GMU that made me enjoy learning software engineering. He is enthusiastic and cares about his students. The best professor I have had at GMU. He makes you work hard for your grade but he does his part to make the learning as engaging as possible which helps you succeed in the course."
+
+--- Review 6 ---
+Course: SWE637
+Date: Nov 28, 2022
+Year: 2022
+Quality: 4.0 | Difficulty: 4.0
+Grade: A
+Would Take Again: Yes
+Tags: Clear grading criteria, Participation matters, Lots of homework
+"Professor was good but I thought this class was going to be about all different types of testing in a practical matter but boy was I wrong. It's more about the THEORY of testing and the quizzes are really difficult. The assignments aren't as bad but the quizzes were so bad, you can retake them but with lowered max score. Would not take again!!"
+
+--- Review 7 ---
+Course: SWE637
+Date: Aug 7, 2023
+Year: 2023
+Quality: 5.0 | Difficulty: 4.0
+Grade: A
+Would Take Again: Yes
+Tags: Gives good feedback, Extra credit, Hilarious
+"Great professor. He's doing great for his first class here at GMU. He's gives students many opportunities to do well. Would definitely recommend his class."

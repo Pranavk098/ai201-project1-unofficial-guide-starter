@@ -4,38 +4,74 @@ Institution: George Mason University
 Overall Rating: 3.2/5
 Difficulty Rating: 3.2/5
 Source: https://www.ratemyprofessors.com/professor/2711222
+Source_Type: RMP
 
 --- Review 1 ---
 Course: CS310
 Date: Jun 4, 2026
+Year: 2026
 Quality: 1.0 | Difficulty: 1.0
 Grade: Rather not say
+Would Take Again: Not specified
+Tags: N/A
 "Avoid at all costs. Lectures are very boring; he cannot really teach you anything."
 
 --- Review 2 ---
 Course: SWE619
 Date: May 4, 2026
+Year: 2026
 Quality: 5.0 | Difficulty: 1.0
 Grade: B-
+Would Take Again: Yes
+Tags: N/A
 "SWE419/619 isn't hard for those who said otherwise — just never came to his class and paid attention. You learn from him best when you ask your questions."
 
 --- Review 3 ---
 Course: CS310
 Date: May 3, 2026
+Year: 2026
 Quality: 1.0 | Difficulty: 3.0
 Grade: B
+Would Take Again: Not specified
+Tags: N/A
 "Worst professor ever. He does not like teaching. He just reads PowerPoint slides. Does not explain code. AVOID him at all costs."
 
 --- Review 4 ---
 Course: CS310
 Date: May 1, 2026
+Year: 2026
 Quality: 4.0 | Difficulty: 1.0
 Grade: B+
+Would Take Again: Yes
+Tags: Amazing lectures, Test heavy
 "Lectures are straightforward and he gets information out in an easy to understand manner. Homeworks he gives before each quiz give you more than enough material to pass them with flying colors. He's very chill as well."
 
 --- Review 5 ---
 Course: CS310
 Date: Dec 26, 2025
+Year: 2025
 Quality: 1.0 | Difficulty: 5.0
 Grade: A
+Would Take Again: Not specified
+Tags: Tough grader, Lecture heavy
 "Didn't struggle at all and got an A but still a bad professor. Lectures are boring and he just reads slides."
+
+--- Review 6 ---
+Course: CS310
+Date: Dec 21, 2025
+Year: 2025
+Quality: 2.0 | Difficulty: 3.0
+Grade: A+
+Would Take Again: Not specified
+Tags: Tough grader, Lecture heavy, Test heavy
+"Most Fall 2025 reviews are written by people who can't code in a 300 level course" - I have an A+. Masri is a decent lecturer but he's boring and not good at communicating exam logistics. His midterm was very technical, and the project he made was vague. The final took forever to grade, and there's no transparency with grading. Below average prof."
+
+--- Review 5 ---
+Course: CS310
+Date: Dec 17, 2025
+Year: 2025
+Quality: 2.0 | Difficulty: 3.0
+Grade: Not sure yet
+Would Take Again: Not specified
+Tags: Tough grader, Lecture heavy
+"Average prof. Pacing was whack – 4 weeks on LL and like 2 on graphs. Vague about exam content when asked, but still a fairly reasonable midterm (but stressed certain topics WAY more than others + had some random trivia). Gave some practice worksheets but stopped after a month. Lectures were a bit slow but his drawings helped a bit w/ understanding."

@@ -1,43 +1,77 @@
 Professor: Wassim Itani
 Department: Computer Science
 Institution: George Mason University
-Overall Rating: 4.5/5 (based on 20 ratings)
+Overall Rating: 4.5/5
 Difficulty Rating: 2.5/5
 Source: https://www.ratemyprofessors.com/professor/2842731
+Source_Type: RMP
 
 --- Review 1 ---
 Course: ISA562
 Date: May 6, 2026
-Quality: 3.0 | Difficulty: 3.0
-Attendance: Mandatory
-"The lectures were interesting and the professor was knowledgeable about the content. The course grade was dependent on an outside-of-class group project. With this project, the professor could be curt with feedback and sometimes assumed AI reliance on legit submissions."
+Year: 2026
+Quality: 5.0 | Difficulty: 3.0
+Grade: Incomplete
+Would Take Again: Not specified
+Tags: Group projects, Lecture heavy, Graded by few things
+"The lectures were interesting and the professor was knowledgeable about the content. The course grade was dependent on an outside-of-class group project. With this project, the professor could be curt with feedback and sometimes assumed AI reliance on legit submissions. It was a decent amount of work, but the deadlines were reasonable."
 
 --- Review 2 ---
 Course: ISA562
 Date: May 6, 2026
+Year: 2026
 Quality: 3.0 | Difficulty: 3.0
-Attendance: Mandatory
-"He had interesting lectures and was knowledgeable about the material. Course grade was pretty dependent on an outside-of-class project. With this project, the professor could be curt with feedback and sometimes assumed the worst (i.e. AI reliance) out of legit submissions."
+Grade: Not sure yet
+Would Take Again: Not specified
+Tags: Group projects, Lecture heavy, Graded by few things
+"He had interesting lectures and was knowledgeable about the material. Course grade was pretty dependent on an outside-of-class project. With this project, the professor could be curt with feedback and sometimes assumed the worst (i.e. AI reliance) out of legit submissions. Overall, it was a decent amount of work, but the timelines were reasonable."
 
 --- Review 3 ---
 Course: CS455
 Date: Dec 17, 2025
+Year: 2025
 Quality: 4.0 | Difficulty: 4.0
 Grade: A+
-Attendance: Not mandatory
-"This professor is truly great for this class. You can tell he is really passionate about networking and tries his best to simplify the concepts in the slides during the lectures."
+Would Take Again: Yes
+Tags: Respected, Lecture heavy, Graded by few things
+"This professor is truly great for this class. You can tell he is really passionate about networking and tries his best to simplify the concepts in the slides during the lectures. Beware, there is A LOT of material in this class to review and be sure to start the projects as early as you can."
 
 --- Review 4 ---
 Course: CS550
 Date: Dec 17, 2025
+Year: 2025
 Quality: 5.0 | Difficulty: 2.0
-Attendance: Mandatory
-"Professor Itani (CS455) is an all-around wonderful professor. His lectures give you large amounts of insight on important and relevant concepts, and he shows care for students by excellently answering questions and fostering an interactive environment."
+Grade: Not specified
+Would Take Again: Yes
+Tags: Participation matters, Amazing lectures, Respected
+"Professor Itani is an all-around wonderful professor. His lectures give you large amounts of insight on important and relevant concepts, and he shows care for students by excellently answering questions and fostering an interactive environment. This course is seriously relevant to the real world, and Prof. Itani makes it even more valuable!"
 
 --- Review 5 ---
 Course: CS450
 Date: Jul 7, 2025
+Year: 2025
 Quality: 4.0 | Difficulty: 2.0
 Grade: B+
-Attendance: Not mandatory
-"Summer class was very chill, we had 3 projects, 1 midterm and 1 final. Very understanding professor for summer, didn't bombard us with a lot of coursework."
+Would Take Again: Yes
+Tags: Participation matters, Extra credit, Group projects
+"Summer class was very chill, we had 3 projects, 1 midterm and 1 final. There was in-class participation for credit (10% of final grade), and professor gave the option to work on projects in groups. Very understanding professor for summer, didn't bombard us with a lot of coursework. Just go to class and pay attention — falling behind is NOT an option."
+
+--- Review 6 ---
+Course: CS450
+Date: Jul 5, 2025
+Year: 2025
+Quality: 5.0 | Difficulty: 2.0
+Grade: A+
+Would Take Again: Yes
+Tags: Group projects
+"This is my second time taking a CS course with him—CS 262 and CS 450—and I earned an A+ both times. He truly knows what he's talking about, and what makes it even better is the way he delivers the material. I'm planning to take CS 455 with him in Fall 2025. If you get the chance, definitely take a class with him!"
+
+--- Review 7 ---
+Course: CS450
+Date: Jun 1, 2025
+Year: 2025
+Quality: 5.0 | Difficulty: 3.0
+Grade: A-
+Would Take Again: Yes
+Tags: Participation matters, Extra credit, Group projects
+"Professor Itani uses most of his abilities as a professor to make sure you succeed as a student. Would heavily recommend always writing down whatever he writes on the board. He will always answer your questions about literally anything, so take chances and ask! The class has a few projects, so make sure to find a good group! Study SQL SYNTAX!!"

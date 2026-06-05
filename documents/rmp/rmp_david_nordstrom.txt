@@ -4,42 +4,74 @@ Institution: George Mason University
 Overall Rating: 3.0/5
 Difficulty Rating: 3.6/5
 Source: https://www.ratemyprofessors.com/professor/1098501
+Source_Type: RMP
 
 --- Review 1 ---
 Course: CS100
 Date: Jan 19, 2019
+Year: 2019
 Quality: 1.0 | Difficulty: 5.0
 Grade: B
 Would Take Again: No
+Tags: Skip class? You won't pass, Test heavy, Graded by few things
 "Please save yourself time and headaches. I never struggle with my classes and especially an introduction class. This class was hard to understand because of his teaching and his whiteboard writing that only made things worse."
 
 --- Review 2 ---
 Course: CS222
 Date: Nov 1, 2017
+Year: 2017
 Quality: 1.0 | Difficulty: 5.0
 Grade: B
 Would Take Again: No
+Tags: Lecture heavy
 "Absolute worst. His writing is illegible, and nothing he writes on the board is guaranteed to work. ALL of his tests, homework, etc. is just repeat from the year before."
 
 --- Review 3 ---
 Course: CS262
 Date: Dec 29, 2016
+Year: 2016
 Quality: 5.0 | Difficulty: 4.0
 Grade: A
 Would Take Again: Yes
-"Professor does a good job teaching the class and really covers the concepts needed to know before each lab."
+Tags: Respected, Skip class? You won't pass, Lecture heavy
+"Professor does a good job teaching the class and really covers the concepts needed to know before each lab. The only downside is that only lab grades appear on Blackboard. His handwriting is a bit messy but he will gladly go over any questions you may have in class."
 
 --- Review 4 ---
 Course: CS262
 Date: Dec 24, 2016
+Year: 2016
 Quality: 3.0 | Difficulty: 3.0
 Grade: A
 Would Take Again: Yes
-"Not bad prof! Kind, funny. Teaches basics, somewhat helpful stuff for project."
+Tags: Respected, Skip class? You won't pass
+"Not bad prof! Kind, funny. Teaches basics, somewhat helpful stuff for projects. Labs might have to reteach yourself, especially on concepts like bits and pointers. Projects are hard but doable. Medium level: 1 midterm, weekly quizzes on previous 2 lectures, 11 labs, 3 projects, 1 final. Make sure to write down everything he says."
 
 --- Review 5 ---
 Course: CS262
 Date: Nov 3, 2016
+Year: 2016
 Quality: 1.0 | Difficulty: 5.0
+Grade: Not sure yet
 Would Take Again: No
-"He has horrible handwriting which he admits himself but tells you to get used to it."
+Tags: Skip class? You won't pass, Graded by few things, Lecture heavy
+"He has horrible handwriting which he admits himself but tells you to get used to it and refuses to type out his lectures. He has a quiz every other class but can't be bothered to tell you what section it's about. Only has two tests: midterm and final. Horrible to try and contact as he doesn't respond to email or phone. I would avoid him if you can."
+
+--- Review 6 ---
+Course: CS440
+Date: Dec 17, 2015
+Year: 2015
+Quality: 3.5 | Difficulty: 4.0
+Grade: Not sure yet
+Would Take Again: No
+Tags: Skip class? You won't pass, Graded by few things, Lecture heavy
+"All notes are written on the board, you must come to class. Projects are not cakewalks but for the most part doable, and turned in hardcopy. I averaged perfects on the projects but got a much lower grade than I expected due to his hard exams (which I scored the class average) and he did not curve. Disappointed in the disjointness of difficulty."
+
+--- Review 7 ---
+Course: CS310
+Date: Jun 1, 2015
+Year: 2015
+Quality: 4.0 | Difficulty: 1.0
+Grade: A
+Would Take Again: No
+Tags: Skip class? You won't pass, Graded by few things, Lecture heavy
+"He writes notes on board so go to class. Start early on projects, if you do well on projects it would probably help your grade a lot. Exams are only a few questions. He is knowledgeable, helpful and easygoing. I would take him again."
