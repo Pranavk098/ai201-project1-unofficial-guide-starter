@@ -1,0 +1,303 @@
+GMU Department of Computer Science — Course Catalog (Undergraduate & Graduate)
+Source: https://catalog.gmu.edu/courses/cs/
+Last fetched: June 2026
+
+===== 100-LEVEL COURSES =====
+
+CS 100: Principles of Computing (3 credits)
+Prerequisites: None
+Mason Core: Info Tech & Computing
+Description: Explores computational thinking including creativity, abstraction, data, algorithms, programming, internet, and societal impact.
+
+CS 105: Computer Ethics and Society (1 credit)
+Prerequisites: None
+Description: Covers legal, social, and ethical issues in software development and computer use.
+
+CS 108: Intro to Computer Programming, Part A (3 credits)
+Prerequisites: None
+Mason Core: Info Tech & Computing
+Description: First semester of two-part sequence. Covers programming basics, history of computing, and problem-solving techniques.
+
+CS 109: Intro to Computer Programming, Part B (3 credits)
+Prerequisites: CS 108 (C minimum) AND math placement or MATH 104/105/113/115/123 (C minimum)
+Description: Continuation covering procedural programming, data structures, recursion, and object-oriented basics.
+
+CS 110: Essentials of Computer Science (3 credits)
+Prerequisites: Enrollment limited to EC-BS-ACS or EC-BS-CS majors
+Description: Covers number representation, programming environments, network security, privacy, and ethical computing.
+
+CS 112: Introduction to Computer Programming (4 credits)
+Prerequisites: Math placement score of 80+ or MATH 104/105/113/115/123 (C minimum)
+Mason Core: Info Tech & Computing
+Description: Problem-solving through programming. Covers expressions, control structures, testing, and debugging.
+
+===== 200-LEVEL COURSES =====
+
+CS 211: Object-Oriented Programming (3 credits)
+Prerequisites: CS 112 or CS 109 (C minimum)
+Description: Covers classes, interfaces, inheritance, polymorphism, exception handling, and data structures.
+
+CS 222: Computer Programming for Engineers (3 credits)
+Prerequisites: CS 112 or CS 109 (C minimum)
+Description: Introduction to C language. Covers pointers, data structures, file I/O, bitwise operations.
+
+CS 262: Introduction to Low-Level Programming (3 credits)
+Prerequisites: CS 110 or equivalent (C minimum) AND CS 211/222 (C minimum)
+Description: Introduction to C and Unix operating system concepts for systems programming.
+
+===== 300-LEVEL COURSES =====
+
+CS 310: Data Structures (3 credits)
+Prerequisites: CS 211 (C minimum) AND MATH 125 (C minimum) AND one of MATH 113/124/115 (C minimum)
+Description: Object-oriented programming with emphasis on linear and nonlinear data structures.
+
+CS 321: Software Engineering (3 credits)
+Prerequisites: CS 310 (C minimum) AND writing requirement (ENGH 302/HNRS 260-261 with C minimum)
+Enrollment: Limited to Applied CS, CS, Software Engineering, or Systems Engineering majors
+Mason Core: Writing Intensive in Major
+Description: Requirements analysis, UML modeling, design principles, and group projects.
+
+CS 325: Introduction to Game Design (3 credits)
+Prerequisites: CS 211 (C minimum)
+Description: Surveys technical aspects of game design with emphasis on programming.
+
+CS 330: Formal Methods and Models (3 credits)
+Prerequisites: CS 211 (C minimum) AND MATH 125 (C minimum)
+Enrollment: Limited to Applied CS, Computer Science, or Software Engineering majors (BS only)
+Description: Formal languages, models of computation, logic, and proof strategies.
+
+CS 351: Visual Computing (3 credits)
+Prerequisites: CS 262 and CS 310 (C minimum)
+Description: Programming mathematical and geometric concepts in computer graphics; computational geometry, 3D modeling, algorithms, and GUIs.
+
+CS 367: Computer Systems and Programming (4 credits)
+Prerequisites: CS 262/222/ECE 340 (C minimum) AND MATH 125 (C minimum) AND CS 110 (C minimum)
+Description: Data representation, assembly language, memory hierarchy, virtual memory, and system-level I/O.
+
+CS 390: Research and Project Design Principles in Computing (3 credits)
+Prerequisites: CS 262 (C minimum). Recommended: CS 310 and CS 321
+Mason Impact designation
+Description: Introduces research process, design principles, evidence gathering, and result communication.
+
+CS 391: Advanced Programming Lab (1 credit, repeatable to 3)
+Prerequisites: CS 310 (C minimum)
+Description: Programming lab focusing on data structures, recursion, backtracking, dynamic programming.
+
+CS 399: Special Topics (3 credits, repeatable to 6)
+Prerequisites: CS 211 (C minimum)
+Description: Special and emerging topics in computer science.
+
+===== 400-LEVEL COURSES =====
+
+CS 405: Ethics and Law in Computing (3 credits)
+Prerequisites: CS 105 or CS 110 (C minimum) AND communication and writing requirements
+Enrollment: Junior Plus or higher; Applied CS or CS majors only
+Mason Core: Capstone, Synthesis, Writing Intensive in Major
+Description: Legal and ethical issues in computing, e-commerce, and internet use.
+
+CS 425: Game Programming I (3 credits)
+Prerequisites: CS 310 and CS 351 (C minimum)
+Description: Introduction to game development technologies and techniques; includes prototype design project.
+
+CS 426: Game Programming II (3 credits)
+Prerequisites: CS 325 and CS 425 (C minimum)
+Description: Project-oriented continuation focusing on complete game implementation.
+
+CS 440: Compilers (3 credits)
+Prerequisites: CS 310, CS 330, and CS 367 (C minimum)
+Description: Survey of programming language processors; covers lexical analysis, parsing, semantic analysis, code generation. Project-intensive with compiler implementation.
+
+CS 450: Database Concepts (3 credits)
+Prerequisites: CS 310 and CS 330 (C minimum)
+Description: Entity-Relationship models, SQL, normalization, relational databases; includes ORACLE database design and implementation.
+
+CS 455: Computer Communications and Networking (3 credits)
+Prerequisites: CS 310 and CS 367 (C minimum) AND STAT 344 or MATH 352 (C minimum)
+Description: Organized by Internet Protocol Suite layers; covers media, protocols, network performance, emerging technologies.
+
+CS 463: Comparative Programming Languages (3 credits)
+Prerequisites: CS 330, CS 367, and CS 310 (C minimum)
+Description: Key programming mechanisms including control, binding, procedural abstraction, types, concurrency.
+
+CS 465: Computer Systems Architecture (3 credits)
+Prerequisites: CS 367 (C minimum)
+Description: Instruction set architectures, pipeline architectures, memory hierarchy, cache, virtual memory, I/O processing.
+
+CS 468: Secure Programming and Systems (3 credits)
+Prerequisites: CS 310 and CS 367 (C minimum)
+Description: Security fundamentals, vulnerability analysis, secure software development, distributed system security.
+
+CS 471: Operating Systems (3 credits)
+Prerequisites: (CS 310 or ECE 340) and (CS 367 or ECE 445) (C minimum)
+Description: Concurrent processes, synchronization, scheduling, memory management, deadlock management.
+
+CS 475: Concurrent and Distributed Systems (3 credits)
+Prerequisites: CS 310 and CS 367 (C minimum)
+Description: Multithreading, network protocols, distributed computation.
+
+CS 477: Mobile Application Development (3 credits)
+Prerequisites: CS 310 and CS 367 (C minimum)
+Description: Project-based course covering user interfaces, event-based programming, mobile-specific capabilities.
+
+CS 478: Natural Language Processing (3 credits)
+Prerequisites: CS 310 and CS 330 (C minimum)
+Description: Language modeling, word/sentence representations, sentiment analysis, POS tagging, syntactic parsing.
+
+CS 480: Introduction to Artificial Intelligence (3 credits)
+Prerequisites: CS 310 and CS 330 (C minimum)
+Description: Knowledge representation, reasoning, learning, problem solving, planning, heuristic search.
+
+CS 482: Computer Vision (3 credits)
+Prerequisites: CS 310 (C minimum) AND MATH 203 (C minimum) AND STAT 344 (C minimum)
+Description: Visual perception, edge detection, segmentation, image modeling, knowledge representation.
+
+CS 483: Analysis of Algorithms (3 credits)
+Prerequisites: CS 310 and CS 330 (C minimum) AND MATH 125 (C minimum)
+Description: Analyzes computational resources; covers algorithms, data structures, rigorous analysis techniques.
+
+CS 484: Data Mining (3 credits)
+Prerequisites: CS 310 (C minimum) AND (STAT 344/334/346 or MATH 351 and 352) (C minimum)
+Description: Data analysis, knowledge discovery, modeling, prediction, performance evaluation.
+
+CS 485: Autonomous Robotics (3 credits)
+Prerequisites: CS 262 and CS 310 (C minimum) AND MATH 203 (C minimum)
+Description: Autonomous architectures, kinematics, motion planning, localization, learning; projects with physical robots.
+
+CS 487: Introduction to Cryptography (3 credits)
+Prerequisites: CS 310 and CS 330 (C minimum) AND STAT 344 (C minimum)
+Description: Formal definitions of security for encryption and authentication; covers private/public key settings and practical constructions.
+
+CS 489: Deep Learning (3 credits)
+Prerequisites: MATH 203 (C minimum) AND (CS 480 or CS 484) (C minimum). Recommended: MATH 213 and STAT 344
+Description: Neural networks, CNNs, RNNs, transformers, supervised/unsupervised learning, generative models.
+
+CS 491: Industry-Sponsored Senior Design Project (3 credits, repeatable to 6)
+Prerequisites: CS 321 (C minimum). Recommended: CS 367 and CS 483
+Enrollment: Applied CS or CS majors only
+Description: Two-semester Fall/Spring sequence; students work with industry partners on major software projects.
+
+CS 498: Independent Study in Computer Science (1-3 credits, repeatable to 6)
+Recommended: 60 credits, CS major, instructor permission
+Description: Research and analysis of selected problems or topics.
+
+CS 499: Special Topics in Computer Science (3 credits, repeatable to 24)
+Prerequisites: CS 310 and CS 330 (C minimum). Recommended: 60 credits
+Description: Topics of special interest to undergraduates.
+
+===== 500-LEVEL COURSES =====
+
+CS 530: Mathematical Foundations of Computer Science (3 credits)
+Enrollment: Graduate or Non-Degree; Engineering Computing college (not PhD CS or accelerated master's)
+Recommended: MATH 125 and STAT 344
+Description: Mathematical structures, logic, probability theory, problem solving.
+
+CS 531: Computer Systems and Fundamentals of Systems Programming (3 credits)
+Enrollment: Graduate or Non-Degree; Engineering Computing college (not PhD CS or accelerated master's)
+Recommended: CS 310 and CS 367
+Description: Data structures, Unix API, signals, threads, interprocess communications.
+
+CS 540: Compilers (3 credits)
+Enrollment: Graduate, Junior Plus, Non-Degree, or Senior Plus; not Computing Foundations major
+Recommended: CS 310, CS 330, CS 367
+Description: Lexical analysis, parsing, semantic analysis, code generation. Project-intensive.
+
+CS 550: Database Systems (3 credits)
+Enrollment: Graduate, Junior Plus, Non-Degree, or Senior Plus; Engineering Computing college
+Recommended: CS 310 or INFS 519; CS 330
+Description: Data modeling, relational model, SQL, database design, object/XML databases.
+
+CS 555: Computer Communications and Networking (3 credits)
+Enrollment: Graduate, Junior Plus, Non-Degree, or Senior Plus; not Computing Foundations major
+Recommended: CS 310, CS 367, STAT 344
+Description: Communication techniques, TCP/IP layers, protocols, network design, performance.
+
+CS 571: Operating Systems (3 credits)
+Enrollment: Graduate, Junior Plus, Non-Degree, or Senior Plus; not Computing Foundations major
+Recommended: CS 310 and CS 367; or CS 310 and ECE 445
+Description: Processes, memory management, I/O, interprocess communication, files, shells, distributed systems.
+
+CS 580: Introduction to Artificial Intelligence (3 credits)
+Enrollment: Graduate, Junior Plus, Non-Degree, or Senior Plus; not Computing Foundations major
+Recommended: CS 310 and CS 330
+Description: Search strategies, probabilistic reasoning, Bayes networks, machine learning, clustering, neural networks.
+
+CS 583: Analysis of Algorithms (3 credits)
+Enrollment: Graduate, Junior Plus, Non-Degree, or Senior Plus
+Recommended: CS 310, CS 330, MATH 125
+Description: Algorithm design strategies, NP-completeness, approximation algorithms.
+
+CS 584: Theory and Applications of Data Mining (3 credits)
+Enrollment: Graduate, Junior Plus, Non-Degree, or Senior Plus; not Computing Foundations major
+Recommended: CS 310 and STAT 344
+Description: Data cleaning, classification, prediction, scalability, text/audio/image mining.
+
+CS 587: Introduction to Cryptography (3 credits)
+Enrollment: Advanced to Candidacy, Graduate, Junior Plus, Non-Degree, or Senior Plus
+Recommended: CS 330
+Description: Security definitions, encryption, authentication, private/public key settings, constructions.
+
+===== 600-LEVEL COURSES =====
+
+CS 600: Theory of Computation (3 credits)
+Prerequisites: CS 583 (B- minimum)
+Description: Logic, proof techniques, formal languages, automata, Turing machines, NP-completeness, undecidability.
+
+CS 630: Advanced Algorithms (3 credits)
+Prerequisites: CS 583 (B- minimum)
+Description: Hash tables, matrix operations, number theory, string matching, computational geometry, NP-completeness.
+
+CS 635: Foundations of Parallel Computation (3 credits)
+Prerequisites: CS 583 and CS 571 (B- minimum). Recommended: C programming
+Description: MIMD, SIMD, dataflow computation; parallel algorithms and languages.
+
+CS 650: Advanced Database Management (3 credits)
+Prerequisites: CS 550 or INFS 614 (B- minimum)
+Description: Database architecture, physical data organization, query optimization, transaction processing.
+
+CS 655: Wireless and Mobile Computing (3 credits)
+Prerequisites: CS 555 (B- minimum)
+Description: Wireless/mobile networking, IEEE 802.11, IoT, millimeter-waves, vehicular networks, localization.
+
+CS 657: Mining Massive Datasets with MapReduce (3 credits)
+Prerequisites: CS 584 (B- minimum)
+Description: Distributed File Systems, Map-Reduce, similarity search, data stream processing.
+
+CS 661: Decision-Making & Reinforcement Learning (3 credits)
+Prerequisites: CS 580 (B- minimum). Recommended: CS 583
+Description: Planning algorithms, Markov Decision Processes, game playing, task planning, reinforcement learning.
+
+CS 662: Computer Graphics Game Technologies (3 credits)
+Prerequisites: CS 551 (B- minimum)
+Description: Collision detection, levels of detail, physics simulation, textures, shadows.
+
+CS 663: Computational Design (3 credits)
+Prerequisites: CS 583 (B- minimum)
+Description: Design frameworks, 3D representation/modeling, procedural modeling, simulation, optimization.
+
+CS 665: Modern Computer Architecture (3 credits)
+Prerequisites: CS 571 (B- minimum)
+Description: Analytical models, queuing networks, Mean Value Analysis, Markov Chains, performance models.
+
+CS 672: Computer System Performance Evaluation (3 credits)
+Prerequisites: CS 571 (B- minimum)
+Description: Queuing networks, Mean Value Analysis, Markov Chains, data center performance.
+
+CS 675: Distributed Systems (3 credits)
+Prerequisites: CS 571 (B- minimum)
+Description: Distributed communication, middleware, coordination, transactions, consistency, replication, fault tolerance.
+
+CS 677: Operating System Internals (3 credits)
+Prerequisites: CS 571 (B- minimum)
+Description: Kernel internals, system calls, CPU scheduling, context switching, process/memory management, file systems.
+
+CS 678: Advanced Natural Language Processing (3 credits)
+Prerequisites: CS 580 or CS 584 (B- minimum). Recommended: STAT 344
+Description: Language generation, understanding, multilingual learning, transfer learning, semantics, reading comprehension.
+
+CS 682: Computer Vision (3 credits)
+Prerequisites: (CS 580 or CS 584) and CS 583 (B- minimum)
+Description: Visual perception models, edge detection, segmentation, intrinsic images, visual knowledge representation.
+
+CS 683: Parallel Algorithms (3 credits)
+Prerequisites: CS 583 (B- minimum)
+Description: Parallel algorithm design and analysis.

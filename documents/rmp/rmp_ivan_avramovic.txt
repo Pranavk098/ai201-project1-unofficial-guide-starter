@@ -1,0 +1,44 @@
+Professor: Ivan Avramovic
+Department: Computer Science
+Institution: George Mason University
+Overall Rating: 4.6/5 (based on 94 ratings)
+Difficulty Rating: 2.9/5
+Source: https://www.ratemyprofessors.com/professor/2380599
+
+--- Review 1 ---
+Course: CS330
+Date: Apr 28, 2026
+Quality: 5.0 | Difficulty: 2.0
+Grade: B
+Would Take Again: Yes
+"An absolute shining star. This is the first time I'm taking the time to leave a review because I want more students to be aware of him. Spectacular professor, has video lessons on everything in Canvas so you could miss a few days and not worry. No ego at all, will answer any question."
+
+--- Review 2 ---
+Course: CS330
+Date: Apr 1, 2026
+Quality: 5.0 | Difficulty: 4.0
+Would Take Again: Yes
+"Great lecturer, and posts lectures online. However, 100% of your grade is exams and quizzes. Online quizzes can be quite tricky due to wording. In-class quizzes (he calls them assessments) are quite tough due to 15 minute time limit and require a little thought."
+
+--- Review 3 ---
+Course: CS483
+Date: Dec 30, 2025
+Quality: 5.0 | Difficulty: 2.0
+Grade: A
+Would Take Again: Yes
+"He literally is one of the best in the department. Kind and great at teaching. Take him if you can!"
+
+--- Review 4 ---
+Course: CS483
+Date: Dec 19, 2025
+Quality: 5.0 | Difficulty: 3.0
+Grade: A
+Would Take Again: Yes
+"This guy is absolutely great. He's so good at making the dense material common sense or extremely easy to understand."
+
+--- Review 5 ---
+Course: CS483
+Date: Dec 16, 2025
+Quality: 5.0 | Difficulty: 3.0
+Would Take Again: Yes
+"This is one of the few CS professor goats. He's incredibly understanding, helpful and a great educator who you can tell prioritizes student education over grading and percentages."

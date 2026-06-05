@@ -1,0 +1,265 @@
+GMU Department of Computer Science — Faculty Directory
+Source: https://cs.gmu.edu/people/faculty
+Last fetched: June 2026
+
+---
+
+Ghada Abdelmoumin
+Title: Associate Professor (Teaching), Department of Computer Science
+Research Interests: Artificial Intelligence, machine learning, mission-critical Internet of Things, cybersecurity
+
+Jan Allbeck
+Title: Associate Professor, Department of Computer Science; Associate Dean, Honors College
+Research Interests: Artificial Intelligence, Computer Game Technology, and Computer Graphics
+
+Antonios Anastasopoulos
+Title: Assistant Professor, Department of Computer Science
+Research Interests: Natural Language Processing (NLP)
+
+Kevin Andrea
+Title: Assistant Professor (Teaching), Department of Computer Science
+Research Interests: Embedded Systems, Systems Programming, Internet of Things
+
+Giuseppe Ateniese
+Title: Professor and Eminent Scholar, Department of Computer Science
+Research Interests: Cloud Security, Cybersecurity, and Applied Cryptography
+
+Ivan Avramovic
+Title: Associate Professor (Teaching), Department of Computer Science
+Research Interests: Algorithms and theory of computation, systems and networking
+
+Hakan Aydin
+Title: Professor, Department of Computer Science
+Research Interests: Computer Systems, Parallel and Distributed Systems, Real-Time and Embedded Systems, Power-Aware Computing, Fault Tolerance
+
+Foteini Baldimtsi
+Title: Associate Professor, Department of Computer Science
+Research Interests: Cryptography, privacy, blockchain technologies, digital identities
+
+Daniel Barbará
+Title: Professor, Department of Computer Science
+Research Interests: Databases
+
+Alex Brodsky
+Title: Professor, Department of Computer Science
+Research Interests: Decision Support, Guidance and Optimization (DSGO) systems; autonomous UAV/UGV systems; applications to service networks, energy, and manufacturing
+
+Sara-Lynn Gopalkrishna
+Title: Assistant Professor (Teaching), Department of Computer Science
+Research Interests: Computer science education, computer science policy implementation
+
+Dov Gordon
+Title: Associate Professor, Department of Computer Science
+Research Interests: Cryptography
+
+Bo Han
+Title: Associate Professor, Department of Computer Science
+Research Interests: Immersive video streaming, augmented/virtual/mixed reality, Internet of Things
+
+Xu (Ethan) Han
+Title: Instructor (Teaching), Department of Computer Science
+Research Interests: Decision guidance and support systems, smart manufacturing and supply chains, future of work
+
+Wassim Itani
+Title: Associate Professor (Teaching), Department of Computer Science
+Research Interests: Data Science and AI in networking and cybersecurity, cloud computing security and privacy, cloud visualization, energy efficiency, and resource allocation
+
+Michael Jarret Baume
+Title: Assistant Professor, Mathematical Sciences Department
+Research Interests: Quantum computing
+
+Brittany Johnson-Matthews
+Title: Assistant Professor, Department of Computer Science
+Research Interests: Software engineering, human-computer interaction, machine learning
+
+Shahnaz Kamberi
+Title: Associate Professor (Teaching), Department of Computer Science
+Research Interests: Educational technology, game-based learning, virtual and online learning environments, computer science education
+
+Parastoo Kamranfar
+Title: Assistant Professor (Teaching), Department of Computer Science
+Research Interests: Data mining, Machine Learning, Artificial Intelligence
+
+Angkul Kongmunvattana
+Title: Professor (Teaching), Department of Computer Science
+Research Interests: Parallel and distributed systems, computer architecture, performance optimization
+
+Evgenios Kornaropoulos
+Title: Assistant Professor, Department of Computer Science
+Research Interests: Computer security, applied cryptography
+
+Jana Košecká
+Title: Professor, Department of Computer Science
+Research Interests: Visual perception, navigation, machine learning
+
+Wing Lam
+Title: Assistant Professor, Department of Computer Science
+Research Interests: Software testing and analysis, software evolution, software dependability, AI and software engineering
+
+Thomas LaToza
+Title: Associate Professor, Department of Computer Science
+Research Interests: Software Engineering, human aspects of software development, human-computer interaction, crowdsourcing
+
+Fei Li
+Title: Associate Professor, Department of Computer Science
+Research Interests: Algorithms and Theory of Computation
+
+Jessica Lin
+Title: Associate Professor, Department of Computer Science
+Research Interests: Data Mining, data analytics, machine learning
+
+Mingrui Liu
+Title: Assistant Professor, Department of Computer Science
+Research Interests: Machine learning, mathematical optimization, statistical learning theory, deep learning
+
+Zhicong Lu
+Title: Assistant Professor, Department of Computer Science
+Research Interests: Human-computer interaction (HCI), social computing, computational social science, computer-mediated communication
+
+Sean Luke
+Title: Professor, Department of Computer Science
+Research Interests: Multi-agent systems, evolutionary computing
+
+Juan (Judy) Luo
+Title: Associate Professor (Teaching), Department of Computer Science
+Research Interests: N/A
+
+Lannan (Lisa) Luo
+Title: Associate Professor, Department of Computer Science
+Research Interests: Software and Systems Security, vulnerability discovery, IoT security, mobile security, software engineering
+
+Tamara Maddox
+Title: Professor (Teaching), Department of Computer Science
+Research Interests: Artificial Intelligence
+
+Andrian Marcus
+Title: Professor, Department of Computer Science
+Research Interests: Software Engineering
+
+Wassim (Wes) Masri
+Title: Professor (Teaching), Department of Computer Science
+Research Interests: Software engineering, software testing, program analysis
+
+ThanhVu (Vu) Nguyen
+Title: Associate Professor, Department of Computer Science
+Research Interests: Software engineering
+
+John Otten
+Title: Senior Instructor (Teaching), Department of Computer Science
+Research Interests: Computer science education, parallel and distributed systems, VLSI and embedded systems, GSM and cellular technology, software optimization, automotive networks, computer applications in music
+
+Parth Pathak
+Title: Associate Professor, Department of Computer Science
+Research Interests: Multi-gigabit millimeter wave wireless networks, wearable computing systems, remote sensing through RF signals, IoT for healthcare
+
+Robert Pettit
+Title: Professor of Practice and Associate Chair (Graduate), Department of Computer Science
+Research Interests: Software engineering, software design, real-time embedded software, mission-critical software, spaceflight software
+
+David Porfirio
+Title: Assistant Professor, Department of Computer Science
+Research Interests: Human-robot interaction, end-user development, AI planning, interaction design
+
+Michael Reep
+Title: Associate Professor (Teaching), Department of Computer Science
+Research Interests: Software engineering, Agile in federal government, disciplined Agile
+
+Dana Richards
+Title: Associate Professor, Department of Computer Science
+Research Interests: Parallel and Distributed Systems
+
+Katherine (Raven) Russell
+Title: Associate Professor (Teaching), Department of Computer Science
+Research Interests: Large-scale ad-hoc networks, delay/disruption tolerant networks, Named Data Networking
+
+Sanjeev Setia
+Title: Professor, Department of Computer Science
+Research Interests: Computer systems and networks
+
+Maha Shamseddine
+Title: Assistant Professor (Teaching), Department of Computer Science
+Research Interests: Network security, machine learning, edge computing, Internet of Things (IoT), software-defined networking
+
+Amarda Shehu
+Title: Inaugural VP and Chief AI Officer; Associate Dean for Research; Professor
+Research Interests: Artificial Intelligence, foundation models, representation learning, generative AI, language models, AI-enabled scientific discovery
+
+Gurdip Singh
+Title: Divisional Dean, School of Computing
+Research Interests: Real-time embedded systems, sensor networks, network protocols, distributed computing
+
+Mark Snyder
+Title: Professor (Teaching) and Associate Chair, Department of Computer Science
+Research Interests: Computer science education, computer systems
+
+Shvetha Soundararajan
+Title: Associate Professor (Teaching) and Associate Chair, Department of Computer Science
+Research Interests: Agile transformation, software metrics, software quality, user experience research, requirements engineering, educational technology, computer science education, software architecture
+
+Gregory Stein
+Title: Assistant Professor, Department of Computer Science
+Research Interests: Reasoning and navigation under uncertainty, perception and learning
+
+Rahul Tikekar
+Title: Associate Professor (Teaching), Department of Computer Science
+Research Interests: Databases, graph analytics
+
+Xinyuan (Frank) Wang
+Title: Associate Professor, Department of Computer Science
+Research Interests: Computer networks and systems security
+
+Xuesu Xiao
+Title: Assistant Professor, Department of Computer Science
+Research Interests: Field robotics, motion planning, machine learning
+
+Lishan Yang
+Title: Assistant Professor, Department of Computer Science
+Research Interests: System reliability, reliable operation of GPUs, nonconventional sensors, autonomous driving systems, neural networks
+
+Shuochao Yao
+Title: Assistant Professor, Department of Computer Science
+Research Interests: Physical-aware, resource-efficient, reliable AI systems for IoT and Cyber-Physical Systems (CPS)
+
+Ziyu Yao
+Title: Assistant Professor, Department of Computer Science
+Research Interests: Human-AI interaction, NLP, machine learning
+
+Jinwei Ye
+Title: Associate Professor, Department of Computer Science
+Research Interests: Computer vision, computational imaging, computer graphics
+
+Binqian (Bella) Yin
+Title: Assistant Professor (Teaching), Department of Computer Science
+Research Interests: Novel machine learning algorithms for geological problems
+
+Fang-Yi Yu
+Title: Assistant Professor, Department of Computer Science
+Research Interests: Interface between machine learning, artificial intelligence, and economics
+
+Lap-Fai (Craig) Yu
+Title: Associate Professor, Department of Computer Science
+Research Interests: Human-computer interaction (HCI), virtual reality (VR)/augmented reality (AR)
+
+Ahmed Bin Zaman
+Title: Assistant Professor (Teaching), Department of Computer Science
+Research Interests: Evolutionary algorithms, computational biology and bioinformatics, artificial intelligence, machine learning
+
+Qiang Zeng
+Title: Associate Professor, Department of Computer Science
+Research Interests: Computer systems security, Internet of Things, mobile computing
+
+Xiaokuan Zhang
+Title: Assistant Professor, Department of Computer Science
+Research Interests: Computer system security, privacy
+
+Yutao Zhong
+Title: Associate Professor (Teaching), Department of Computer Science
+Research Interests: Computer systems
+
+Keren Zhou
+Title: Assistant Professor, Department of Computer Science
+Research Interests: High performance computing, parallel algorithms, program analysis, machine learning
+
+Ziwei Zhu
+Title: Assistant Professor, Department of Computer Science
+Research Interests: Data mining, machine learning, information retrieval, responsible AI in user-centered systems

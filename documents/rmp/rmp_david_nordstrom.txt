@@ -1,0 +1,45 @@
+Professor: David Nordstrom
+Department: Computer Science
+Institution: George Mason University
+Overall Rating: 3.0/5
+Difficulty Rating: 3.6/5
+Source: https://www.ratemyprofessors.com/professor/1098501
+
+--- Review 1 ---
+Course: CS100
+Date: Jan 19, 2019
+Quality: 1.0 | Difficulty: 5.0
+Grade: B
+Would Take Again: No
+"Please save yourself time and headaches. I never struggle with my classes and especially an introduction class. This class was hard to understand because of his teaching and his whiteboard writing that only made things worse."
+
+--- Review 2 ---
+Course: CS222
+Date: Nov 1, 2017
+Quality: 1.0 | Difficulty: 5.0
+Grade: B
+Would Take Again: No
+"Absolute worst. His writing is illegible, and nothing he writes on the board is guaranteed to work. ALL of his tests, homework, etc. is just repeat from the year before."
+
+--- Review 3 ---
+Course: CS262
+Date: Dec 29, 2016
+Quality: 5.0 | Difficulty: 4.0
+Grade: A
+Would Take Again: Yes
+"Professor does a good job teaching the class and really covers the concepts needed to know before each lab."
+
+--- Review 4 ---
+Course: CS262
+Date: Dec 24, 2016
+Quality: 3.0 | Difficulty: 3.0
+Grade: A
+Would Take Again: Yes
+"Not bad prof! Kind, funny. Teaches basics, somewhat helpful stuff for project."
+
+--- Review 5 ---
+Course: CS262
+Date: Nov 3, 2016
+Quality: 1.0 | Difficulty: 5.0
+Would Take Again: No
+"He has horrible handwriting which he admits himself but tells you to get used to it."

@@ -1,0 +1,44 @@
+Professor: Katherine Russell
+Department: Computer Science
+Institution: George Mason University
+Overall Rating: 3.2/5 (based on 147 ratings)
+Difficulty Rating: 3.8/5
+Source: https://www.ratemyprofessors.com/professor/2038141
+
+--- Review 1 ---
+Course: CS310
+Date: Apr 20, 2026
+Quality: 5.0 | Difficulty: 3.0
+Grade: A-
+Would Take Again: Yes
+"Her lectures are interactive and allow for collaboration with peers. She explains very well with her analogies and high energy."
+
+--- Review 2 ---
+Course: CS483
+Date: Jan 20, 2026
+Quality: 5.0 | Difficulty: 3.0
+Grade: A+
+Would Take Again: Yes
+"Has clear slideshow notes and is great at explaining complicated concepts. Tests are challenging but very fair."
+
+--- Review 3 ---
+Course: CS310
+Date: Dec 17, 2025
+Quality: 5.0 | Difficulty: 2.0
+Grade: C
+Would Take Again: Yes
+"Study CS310 religiously, go to her office hours, and study as much as possible if you want to pass."
+
+--- Review 4 ---
+Course: CS310
+Date: Nov 13, 2025
+Quality: 2.0 | Difficulty: 5.0
+"Tests are going to be harder than previous CS classes, and projects will take a while."
+
+--- Review 5 ---
+Course: CS310
+Date: Oct 16, 2025
+Quality: 5.0 | Difficulty: 3.0
+Grade: A+
+Would Take Again: Yes
+"She teaches hard concepts and somehow makes them easy. The study guide really helped me prepare."

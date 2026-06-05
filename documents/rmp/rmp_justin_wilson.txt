@@ -1,0 +1,48 @@
+Professor: Justin Wilson
+Department: Computer Science
+Institution: George Mason University
+Overall Rating: 5.0/5
+Difficulty Rating: 2.1/5
+Source: https://www.ratemyprofessors.com/professor/2943034
+
+--- Review 1 ---
+Course: CS222
+Date: Apr 30, 2026
+Quality: 5.0 | Difficulty: 1.0
+Would Take Again: Yes
+Tags: Extra credit, gives good feedback, caring
+"He is an amazing professor who genuinely cares about his students. He will do everything in his power to make sure you pass. Highly recommend taking him for CS222."
+
+--- Review 2 ---
+Course: CS222
+Date: Apr 27, 2026
+Quality: 5.0 | Difficulty: 2.0
+Would Take Again: Yes
+Tags: Extra credit, accessible outside class
+"Only problem is 7 a.m class other than that, professor Wilson is very caring and makes sure students understand the material. Lots of extra credit opportunities."
+
+--- Review 3 ---
+Course: CS222
+Date: Apr 21, 2026
+Quality: 5.0 | Difficulty: 2.0
+Would Take Again: Yes
+Tags: Extra credit, gives good feedback, caring
+"He is one of the best professors at GMU, genuinely so caring about his students. Hard to do badly in his class because he gives lots of extra credit and really wants you to succeed."
+
+--- Review 4 ---
+Course: CS222
+Date: Dec 19, 2025
+Quality: 5.0 | Difficulty: 2.0
+Grade: A+
+Would Take Again: Yes
+Tags: Amazing lectures, caring, accessible outside class
+"This is easily one of the best professors I have ever had so far. He is so caring and wants every student to succeed. His lectures are engaging and he is always available outside class."
+
+--- Review 5 ---
+Course: CS222
+Date: May 2, 2025
+Quality: 5.0 | Difficulty: 2.0
+Grade: A+
+Would Take Again: Yes
+Tags: Extra credit, amazing lectures, caring
+"Best professor you'll ever take. He cares about the class and wants you to do well. Gives tons of extra credit and his lectures are top notch."

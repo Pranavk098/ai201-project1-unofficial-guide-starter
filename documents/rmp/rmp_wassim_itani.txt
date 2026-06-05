@@ -1,0 +1,43 @@
+Professor: Wassim Itani
+Department: Computer Science
+Institution: George Mason University
+Overall Rating: 4.5/5 (based on 20 ratings)
+Difficulty Rating: 2.5/5
+Source: https://www.ratemyprofessors.com/professor/2842731
+
+--- Review 1 ---
+Course: ISA562
+Date: May 6, 2026
+Quality: 3.0 | Difficulty: 3.0
+Attendance: Mandatory
+"The lectures were interesting and the professor was knowledgeable about the content. The course grade was dependent on an outside-of-class group project. With this project, the professor could be curt with feedback and sometimes assumed AI reliance on legit submissions."
+
+--- Review 2 ---
+Course: ISA562
+Date: May 6, 2026
+Quality: 3.0 | Difficulty: 3.0
+Attendance: Mandatory
+"He had interesting lectures and was knowledgeable about the material. Course grade was pretty dependent on an outside-of-class project. With this project, the professor could be curt with feedback and sometimes assumed the worst (i.e. AI reliance) out of legit submissions."
+
+--- Review 3 ---
+Course: CS455
+Date: Dec 17, 2025
+Quality: 4.0 | Difficulty: 4.0
+Grade: A+
+Attendance: Not mandatory
+"This professor is truly great for this class. You can tell he is really passionate about networking and tries his best to simplify the concepts in the slides during the lectures."
+
+--- Review 4 ---
+Course: CS550
+Date: Dec 17, 2025
+Quality: 5.0 | Difficulty: 2.0
+Attendance: Mandatory
+"Professor Itani (CS455) is an all-around wonderful professor. His lectures give you large amounts of insight on important and relevant concepts, and he shows care for students by excellently answering questions and fostering an interactive environment."
+
+--- Review 5 ---
+Course: CS450
+Date: Jul 7, 2025
+Quality: 4.0 | Difficulty: 2.0
+Grade: B+
+Attendance: Not mandatory
+"Summer class was very chill, we had 3 projects, 1 midterm and 1 final. Very understanding professor for summer, didn't bombard us with a lot of coursework."

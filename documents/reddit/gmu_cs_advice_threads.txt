@@ -1,0 +1,123 @@
+GMU CS Student Advice — Reddit r/gmu Compilation
+Source: r/gmu subreddit (reddit.com/r/gmu)
+Note: Reddit blocks automated fetching. The threads below were found via web search
+and represent the type of student-generated knowledge available on r/gmu.
+To add more content, visit reddit.com/r/gmu and search: professor CS, CS310, CS330,
+CS483, best professor, avoid professor, course advice.
+
+---
+
+THREAD: Professor recommendations for CS core courses
+Source: r/gmu
+
+Q: What professors should I take for CS310, CS330, and CS483?
+
+Student responses compiled from search results:
+
+- For CS330, Ahmed Zaman is highly recommended. His lectures simplify hard concepts.
+  The midterm and final are very similar to practice exams. Office hours are key
+  if you're confused. Many students got As by just attending and paying attention.
+
+- For CS330, Ivan Avramovic is also excellent. He posts all lectures on Canvas so
+  you can catch up if you miss class. 100% of the grade is exams and quizzes, which
+  can be tricky — especially in-class assessments with 15-minute time limits. But
+  students say he's one of the best in the department.
+
+- For CS483, Avramovic is consistently called "the GOAT" by students. Makes dense
+  algorithm content easy to understand. Very kind and understanding.
+
+- For CS483, Katherine Russell is more polarizing. Some say she's great with analogies
+  and high energy. Others warn that tests are significantly harder than in earlier CS
+  courses. Going to office hours and studying the course religiously is strongly advised.
+
+- For CS310, Wes Masri gets very mixed reviews. Some say he's straightforward and chill.
+  Many others say he just reads slides and doesn't explain code. Recommend checking RMP
+  before registering.
+
+---
+
+THREAD: Easiest/hardest CS professors at GMU
+Source: r/gmu
+
+Student tips:
+- Justin Wilson (CS222) is widely considered the easiest and most supportive professor
+  in the CS department. Lots of extra credit, very caring. Hard to get a bad grade.
+
+- Wing Lam (SWE437) is considered one of the hardest. Quizzes are intentionally
+  difficult — students say harder than CS211 and CS310 combined. But students who
+  stick with it say they actually learn the material and use it in jobs.
+
+- John Otten (CS110, CS222) is a good lecturer but has a strict no-electronics policy.
+  Multiple reviews warn that he stops class frequently to call out phone users, which
+  disrupts the lecture. Grade is heavily weighted toward in-class quizzes (40%).
+
+- Mark Snyder (CS463, CS367) has a 95% "would take again" rate on RMP. One of the
+  highest-rated professors in the department. Cares about students and keeps lectures
+  engaging.
+
+- Michael Neary (CS112) is beloved for intro CS. Makes the first programming class
+  approachable and is down to earth. Note: he enforces academic integrity strictly
+  and has referred students for plagiarism.
+
+---
+
+THREAD: Tips for surviving CS310 at GMU
+Source: r/gmu
+
+- CS310 is considered a major filter course. Many students struggle here after
+  relatively easier intro courses.
+
+- Katherine Russell's CS310 is interactive and uses analogies, but tests are hard.
+  Students recommend her office hours heavily.
+
+- The course covers linear and nonlinear data structures. Concepts like trees,
+  graphs, and sorting algorithms are fair game on exams.
+
+- Study groups help significantly. The material builds on itself — falling behind
+  early is hard to recover from.
+
+- Prerequisites are CS211 and MATH125. Make sure you're solid on object-oriented
+  programming before starting CS310 or you'll be playing catch-up from day one.
+
+---
+
+THREAD: What's CS330 (Formal Methods) actually like?
+Source: r/gmu
+
+- CS330 is required for CS majors and a prerequisite for CS440, CS450, CS463,
+  CS478, CS480, CS483, CS487, and CS489. It's a gateway course — you'll need it
+  for most upper-level CS.
+
+- Content: formal languages (regular expressions, NFAs, DFAs), context-free grammars,
+  Turing machines, logic, and proof strategies.
+
+- With Zaman: he is patient, passionate, and very good at breaking down complex
+  problems. Exams mirror quizzes and homework closely. Most students do well if
+  they attend.
+
+- The material is abstract and can feel disconnected from programming. Students
+  who approach it like a math course tend to do better.
+
+- Missing class often leads to trouble — the content is sequential and lecture-dense.
+
+---
+
+THREAD: CS483 Analysis of Algorithms — what to expect
+Source: r/gmu
+
+- CS483 is one of the most important upper-level CS courses. Required for CS491
+  (Senior Design). Strongly recommended for anyone interviewing for software
+  engineering jobs.
+
+- With Avramovic: incredibly clear explanations. He prioritizes understanding over
+  grades. Video lessons on Canvas mean you can review everything. Grade is
+  100% exams and quizzes — no projects. Online quiz wording can be tricky.
+
+- With Russell: challenging but fair. Clear slide notes. Tests require solid
+  preparation. Students with A grades consistently cite office hours as essential.
+
+- Topics include divide and conquer, greedy algorithms, dynamic programming,
+  graph algorithms, and NP-completeness proofs.
+
+- Students planning to go into FAANG-type interviews say this course is the most
+  directly useful class in the CS curriculum.

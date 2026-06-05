@@ -1,0 +1,41 @@
+Professor: Wassim (Wes) Masri
+Department: Computer Science
+Institution: George Mason University
+Overall Rating: 3.2/5
+Difficulty Rating: 3.2/5
+Source: https://www.ratemyprofessors.com/professor/2711222
+
+--- Review 1 ---
+Course: CS310
+Date: Jun 4, 2026
+Quality: 1.0 | Difficulty: 1.0
+Grade: Rather not say
+"Avoid at all costs. Lectures are very boring; he cannot really teach you anything."
+
+--- Review 2 ---
+Course: SWE619
+Date: May 4, 2026
+Quality: 5.0 | Difficulty: 1.0
+Grade: B-
+"SWE419/619 isn't hard for those who said otherwise — just never came to his class and paid attention. You learn from him best when you ask your questions."
+
+--- Review 3 ---
+Course: CS310
+Date: May 3, 2026
+Quality: 1.0 | Difficulty: 3.0
+Grade: B
+"Worst professor ever. He does not like teaching. He just reads PowerPoint slides. Does not explain code. AVOID him at all costs."
+
+--- Review 4 ---
+Course: CS310
+Date: May 1, 2026
+Quality: 4.0 | Difficulty: 1.0
+Grade: B+
+"Lectures are straightforward and he gets information out in an easy to understand manner. Homeworks he gives before each quiz give you more than enough material to pass them with flying colors. He's very chill as well."
+
+--- Review 5 ---
+Course: CS310
+Date: Dec 26, 2025
+Quality: 1.0 | Difficulty: 5.0
+Grade: A
+"Didn't struggle at all and got an A but still a bad professor. Lectures are boring and he just reads slides."

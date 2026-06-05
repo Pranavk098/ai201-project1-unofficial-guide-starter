@@ -9,27 +9,36 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+Student-generated knowledge about CS professors and courses at George Mason University,
+collected from Rate My Professors, r/gmu on Reddit, and official GMU course catalog
+and faculty profiles.
+
+GMU's official website and internal student portal only describe course schedules and
+catalog descriptions, but fail to provide niche information about a professor's classroom
+teaching style, exam difficulty, attendance policies, and whether lectures are worth
+attending. This system makes that scattered, informal knowledge answerable through
+plain-language questions.
 
 ---
 
 ## Documents
 
-<!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
-     Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
-
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | RMP — Justin Wilson | CS222 student reviews | https://www.ratemyprofessors.com/professor/2943034 |
+| 2 | RMP — Wassim Itani | CS455/CS450 student reviews | https://www.ratemyprofessors.com/professor/2842731 |
+| 3 | RMP — Wes Masri | CS310/SWE619 student reviews | https://www.ratemyprofessors.com/professor/2711222 |
+| 4 | RMP — Mark Snyder | CS463/CS367 student reviews | https://www.ratemyprofessors.com/professor/1621871 |
+| 5 | RMP — David Nordstrom | CS100/CS222/CS262 student reviews | https://www.ratemyprofessors.com/professor/1098501 |
+| 6 | RMP — Michael Neary | CS112 student reviews | https://www.ratemyprofessors.com/professor/2426252 |
+| 7 | RMP — Wing Lam | SWE437/SWE637 student reviews | https://www.ratemyprofessors.com/professor/2787175 |
+| 8 | RMP — John Otten | CS110/CS222/CS306 student reviews | https://www.ratemyprofessors.com/professor/1903402 |
+| 9 | RMP — Ahmed Zaman | CS330 student reviews | https://www.ratemyprofessors.com/professor/2737110 |
+| 10 | RMP — Ivan Avramovic | CS330/CS483 student reviews | https://www.ratemyprofessors.com/professor/2380599 |
+| 11 | RMP — Katherine Russell | CS310/CS483 student reviews | https://www.ratemyprofessors.com/professor/2038141 |
+| 12 | r/gmu Reddit compilation | CS professor and course advice threads | https://www.reddit.com/r/gmu |
+| 13 | GMU CS Faculty Directory | All CS faculty with titles and research areas | https://cs.gmu.edu/people/faculty |
+| 14 | GMU Course Catalog | Full CS course catalog 100–600 level | https://catalog.gmu.edu/courses/cs/ |
 
 ---
 
@@ -73,11 +82,11 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What do students say about exam difficulty in Justin Wilson's CS222? | Exams are easy, difficulty rated ~2/5. Wilson gives lots of extra credit and genuinely cares about students passing. Hard to do badly in his class. |
+| 2 | Is Wing Lam's SWE437 worth taking even though the quizzes are hard? | Mixed — quizzes are intentionally very hard and the class is considered harder than CS211 and CS310 combined, but students who finish say they genuinely learn the material and apply it on the job. |
+| 3 | What are the prerequisites for CS483 Analysis of Algorithms? | CS310, CS330, and MATH125 all with a C or better. |
+| 4 | Which professor is better for CS330 — Ahmed Zaman or Ivan Avramovic? | Both are highly rated. Zaman's exams closely mirror practice material. Avramovic posts all lectures on Canvas and grades entirely on exams and quizzes with no projects. |
+| 5 | What do students recommend for surviving CS310 at GMU? | Study consistently, attend office hours (especially with Russell), form study groups. The material builds on itself and falling behind early is hard to recover from. |
 
 ---
 

@@ -1,0 +1,46 @@
+Professor: Michael Neary
+Department: Computer Science
+Institution: George Mason University
+Overall Rating: 4.7/5 (based on 39 ratings)
+Difficulty Rating: 3.5/5
+Source: https://www.ratemyprofessors.com/professor/2426252
+
+--- Review 1 ---
+Course: CS112
+Date: Oct 28, 2021
+Quality: 5.0 | Difficulty: 1.0
+Would Take Again: Yes
+"I loved taking his class. If you have a chance, take him!"
+
+--- Review 2 ---
+Course: CS112
+Date: Sep 11, 2021
+Quality: 5.0 | Difficulty: 4.0
+Grade: C
+Would Take Again: Yes
+Attendance: Not Mandatory
+"Learned programming fundamentals well. Notes that three incomplete assignments hurt the grade but emphasizes personal effort over external resources."
+
+--- Review 3 ---
+Course: CS112
+Date: Jun 3, 2021
+Quality: 1.0 | Difficulty: 4.0
+Grade: F
+Would Take Again: No
+"This professor was one of the worst I have ever taken. He claimed I plagiarized a submission and reported me to the conduct board."
+
+--- Review 4 ---
+Course: CS112
+Date: May 17, 2021
+Quality: 5.0 | Difficulty: 4.0
+Grade: A
+Would Take Again: Yes
+"Professor Neary is a real gem. He genuinely wants you to do well and is rooting for you."
+
+--- Review 5 ---
+Course: CS112
+Date: Feb 27, 2021
+Quality: 5.0 | Difficulty: 4.0
+Grade: A
+Attendance: Mandatory
+"Professor Neary made taking my first computer science class a blast. He is down to earth with his students and ensures they weren't too stressed about difficulty and pacing."

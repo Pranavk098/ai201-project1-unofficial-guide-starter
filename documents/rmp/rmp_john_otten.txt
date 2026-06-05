@@ -1,0 +1,36 @@
+Professor: John Otten
+Department: Computer Science
+Institution: George Mason University
+Overall Rating: 3.5/5
+Difficulty Rating: 2.8/5
+Source: https://www.ratemyprofessors.com/professor/1903402
+
+--- Review 1 ---
+Course: CS222
+Date: Apr 30, 2026
+Quality: 2.0 | Difficulty: 4.0
+"Otten is a solid lecturer and the assignments are helpful for learning. However, the in-class quizzes being 40% of the grade felt excessive. His classroom demeanor can also be harsh when calling out students for phone use."
+
+--- Review 2 ---
+Course: CS306
+Date: Dec 30, 2025
+Quality: 5.0 | Difficulty: 3.0
+"Professor Otten's enthusiasm for the course content is apparent which made his lectures interesting. Overall a nice and extremely fair professor."
+
+--- Review 3 ---
+Course: CS110
+Date: Dec 21, 2025
+Quality: 3.0 | Difficulty: 2.0
+"He's great at lecturing but he is incredibly disruptive and disrespectful to the class regarding phone policy. It felt like almost half the class time was him just calling out people for using their phones."
+
+--- Review 4 ---
+Course: CS110
+Date: Dec 19, 2025
+Quality: 3.0 | Difficulty: 1.0
+"The professor is a great lecturer, but his obsession with the no electronic devices rules dragged down lectures."
+
+--- Review 5 ---
+Course: CS110
+Date: Dec 18, 2025
+Quality: 3.0 | Difficulty: 3.0
+"The class overall wasn't too bad. No phone use of any kind is permitted though. I felt that interrupting the lecture to ask students to put the phone away was unnecessary and disruptive."

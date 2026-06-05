@@ -1,0 +1,40 @@
+Professor: Ahmed Zaman
+Department: Computer Science
+Institution: George Mason University
+Overall Rating: 4.4/5 (based on 59 ratings)
+Difficulty Rating: 2.6/5
+Source: https://www.ratemyprofessors.com/professor/2737110
+
+--- Review 1 ---
+Course: CS330
+Date: Jun 1, 2026
+Quality: 5.0 | Difficulty: 3.0
+Grade: A
+"Makes difficult concepts presented in CS330 easy. Office hours are essential if you're confused."
+
+--- Review 2 ---
+Course: CS330
+Date: May 28, 2026
+Quality: 5.0 | Difficulty: 3.0
+Grade: A-
+"CS330 concepts can be a bit unintuitive but his lectures helped simplify things a lot. Quizzes were moderately difficult but the midterm and final were near identical to the practice exams."
+
+--- Review 3 ---
+Course: CS330
+Date: May 14, 2026
+Quality: 5.0 | Difficulty: 4.0
+Grade: A+
+"Lectures are fast-paced and dense, but extremely rewarding. He is very patient. Exams are very fair and similar to the MCQ quizzes and FRQ homework."
+
+--- Review 4 ---
+Course: CS330
+Date: Apr 5, 2026
+Quality: 5.0 | Difficulty: 3.0
+"He is a great professor because he is passionate about teaching. He converts large and complex problems into smaller ones and is easy to understand."
+
+--- Review 5 ---
+Course: CS330
+Date: Dec 23, 2025
+Quality: 5.0 | Difficulty: 2.0
+Grade: A
+"Really good professor. Just show up and pay attention and you'll ace the class."

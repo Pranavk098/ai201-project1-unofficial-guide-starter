@@ -1,0 +1,52 @@
+Professor: Wing Lam
+Department: Computer Science
+Institution: George Mason University
+Overall Rating: 4.0/5 (based on 8 ratings)
+Difficulty Rating: 3.9/5
+Source: https://www.ratemyprofessors.com/professor/2787175
+
+--- Review 1 ---
+Course: SWE437
+Date: Dec 17, 2025
+Quality: 1.0 | Difficulty: 5.0
+Attendance: Mandatory
+Tags: Tough grader, Test heavy, Graded by few things
+"I found this class harder than CS211 and CS310 combined. Quizzes are a big part of the grade, and he makes the quiz super hard intentionally. If you can, take the class with another professor."
+
+--- Review 2 ---
+Course: SWE437
+Date: Dec 10, 2025
+Quality: 4.0 | Difficulty: 4.0
+Grade: B+
+Would Take Again: Yes
+Attendance: Mandatory
+Tags: Tough grader, Participation matters, Test heavy
+"Prof Lam is an inspiration. You'll be anxious about each quiz two weeks in advance, but there's no better way he could've structured the course. You genuinely learn the material."
+
+--- Review 3 ---
+Course: SWE437
+Date: Sep 26, 2025
+Quality: 4.0 | Difficulty: 5.0
+Attendance: Not Mandatory
+Tags: Tough grader, Test heavy
+"The quizzes are insane."
+
+--- Review 4 ---
+Course: SWE437
+Date: Mar 25, 2025
+Quality: 4.0 | Difficulty: 3.0
+Grade: B
+Would Take Again: Yes
+Attendance: Mandatory
+Tags: Group projects, Clear grading criteria, Lots of homework
+"Professor Lam is great. I use a lot of the principles taught at my current job. Gives second chances on daily quizzes."
+
+--- Review 5 ---
+Course: SWE637
+Date: Aug 7, 2023
+Quality: 5.0 | Difficulty: 3.0
+Grade: A
+Would Take Again: Yes
+Attendance: Mandatory
+Tags: Clear grading criteria, Caring, Accessible outside class
+"Wing Lam was the only professor at GMU that made me enjoy learning software engineering. The best professor I have had at GMU."
