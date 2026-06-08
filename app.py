@@ -46,7 +46,7 @@ Answers are grounded in student reviews (Rate My Professors, r/gmu) and the offi
             gr.Markdown("**Example questions**")
             for eq in EXAMPLE_QUESTIONS:
                 gr.Button(eq, size="sm").click(
-                    fn=lambda q=eq: (q,),
+                    fn=lambda q=eq: q,
                     outputs=[question_box],
                 )
 
