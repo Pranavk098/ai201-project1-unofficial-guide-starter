@@ -50,7 +50,7 @@ def _build_context(chunks: list[dict]) -> str:
     return "\n\n---\n\n".join(parts)
 
 
-def generate(query: str, chunks: list[dict]) -> dict:
+def generate(query: str, chunks: list[dict], memory_context: str = "") -> dict:
     """
     Generate a grounded answer from retrieved chunks.
 
@@ -69,9 +69,13 @@ def generate(query: str, chunks: list[dict]) -> dict:
         }
 
     context = _build_context(chunks)
+    memory_block = ""
+    if memory_context:
+        memory_block = f"\nConversation history (for context only — still answer from documents):\n{memory_context}\n"
+
     user_message = f"""Documents:
 {context}
-
+{memory_block}
 Question: {query}
 
 Answer (cite sources inline using the format: (Source: <name>)):"""

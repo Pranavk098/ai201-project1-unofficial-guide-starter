@@ -1,5 +1,9 @@
 """
-Milestone 4: Embed chunks and store in ChromaDB; expose a retrieval function.
+Milestone 4: Embed chunks and store in ChromaDB; expose retrieval functions.
+
+Stretch features:
+  - Hybrid search: BM25 keyword scores fused with semantic scores via RRF.
+  - Metadata filtering: restrict results by source_type or professor.
 
 Usage:
   python embed.py            # build the vector store (run once)
@@ -7,9 +11,10 @@ Usage:
 """
 
 import argparse
-import sys
+import re
 
 import chromadb
+from rank_bm25 import BM25Okapi
 from sentence_transformers import SentenceTransformer
 
 from ingest import build_chunks
@@ -21,6 +26,10 @@ MODEL_NAME = "all-MiniLM-L6-v2"
 # Module-level singletons — loaded once, reused across calls
 _model: SentenceTransformer | None = None
 _collection: chromadb.Collection | None = None
+
+# BM25 index built lazily from the full corpus stored in ChromaDB
+_bm25: BM25Okapi | None = None
+_bm25_corpus: list[dict] | None = None  # parallel list of {text, metadata}
 
 
 def _get_model() -> SentenceTransformer:
@@ -85,7 +94,7 @@ def embed_and_store(chunks: list[dict], chroma_path: str = CHROMA_PATH) -> None:
 
 
 # ---------------------------------------------------------------------------
-# Retrieval
+# Retrieval — semantic only
 # ---------------------------------------------------------------------------
 
 def retrieve(
@@ -122,6 +131,123 @@ def retrieve(
         results["distances"][0],
     ):
         output.append({"text": doc, "distance": round(dist, 4), "metadata": meta})
+
+    return output
+
+
+# ---------------------------------------------------------------------------
+# Stretch: Hybrid search  (BM25 + semantic, fused via Reciprocal Rank Fusion)
+# ---------------------------------------------------------------------------
+
+def _tokenize(text: str) -> list[str]:
+    """Lowercase, strip punctuation, split on whitespace."""
+    return re.sub(r"[^a-z0-9\s]", " ", text.lower()).split()
+
+
+def _get_bm25(chroma_path: str = CHROMA_PATH) -> tuple[BM25Okapi, list[dict]]:
+    """Build (or return cached) BM25 index over the full ChromaDB corpus."""
+    global _bm25, _bm25_corpus
+    if _bm25 is not None:
+        return _bm25, _bm25_corpus  # type: ignore[return-value]
+
+    collection = _get_collection(chroma_path)
+    total = collection.count()
+    # Fetch all stored documents + metadata in one call
+    raw = collection.get(limit=total, include=["documents", "metadatas"])
+    corpus = [
+        {"text": doc, "metadata": meta}
+        for doc, meta in zip(raw["documents"], raw["metadatas"])
+    ]
+    tokenized = [_tokenize(c["text"]) for c in corpus]
+    _bm25 = BM25Okapi(tokenized)
+    _bm25_corpus = corpus
+    return _bm25, corpus
+
+
+def retrieve_hybrid(
+    query: str,
+    k: int = 5,
+    filters: dict | None = None,
+    rrf_k: int = 60,
+    chroma_path: str = CHROMA_PATH,
+) -> list[dict]:
+    """
+    Hybrid retrieval: fuse BM25 and semantic rankings with Reciprocal Rank Fusion.
+
+    RRF score = 1/(rrf_k + rank_semantic) + 1/(rrf_k + rank_bm25)
+    Higher score = better combined rank.
+
+    Returns the top-k chunks as dicts:
+      { "text": str, "distance": float, "bm25_score": float,
+        "rrf_score": float, "metadata": dict }
+    """
+    # ---- semantic retrieval (fetch more candidates to fuse against) ----
+    fetch_n = min(k * 6, 60)
+    model = _get_model()
+    collection = _get_collection(chroma_path)
+    query_embedding = model.encode([query])[0].tolist()
+
+    sem_kwargs: dict = {"query_embeddings": [query_embedding], "n_results": fetch_n}
+    if filters:
+        sem_kwargs["where"] = filters
+    sem_results = collection.query(**sem_kwargs)
+
+    semantic_chunks = []
+    for doc, meta, dist in zip(
+        sem_results["documents"][0],
+        sem_results["metadatas"][0],
+        sem_results["distances"][0],
+    ):
+        semantic_chunks.append({"text": doc, "distance": round(dist, 4), "metadata": meta})
+
+    # ---- BM25 retrieval ----
+    bm25, corpus = _get_bm25(chroma_path)
+    query_tokens = _tokenize(query)
+    bm25_scores = bm25.get_scores(query_tokens)
+
+    # Apply same filters to BM25 candidates if requested
+    if filters:
+        filtered_indices = [
+            i for i, c in enumerate(corpus)
+            if all(c["metadata"].get(key) == val for key, val in filters.items())
+        ]
+    else:
+        filtered_indices = list(range(len(corpus)))
+
+    # Rank BM25 candidates by score descending
+    bm25_ranked = sorted(filtered_indices, key=lambda i: bm25_scores[i], reverse=True)[:fetch_n]
+
+    # ---- Reciprocal Rank Fusion ----
+    # Map chunk text → RRF score (text is a stable identity key)
+    rrf: dict[str, float] = {}
+    text_to_chunk: dict[str, dict] = {}
+
+    for rank, chunk in enumerate(semantic_chunks):
+        key = chunk["text"]
+        rrf[key] = rrf.get(key, 0.0) + 1.0 / (rrf_k + rank + 1)
+        text_to_chunk[key] = chunk
+
+    for rank, idx in enumerate(bm25_ranked):
+        key = corpus[idx]["text"]
+        rrf[key] = rrf.get(key, 0.0) + 1.0 / (rrf_k + rank + 1)
+        if key not in text_to_chunk:
+            text_to_chunk[key] = {
+                "text": corpus[idx]["text"],
+                "distance": 1.0,  # not ranked by semantic — no distance available
+                "metadata": corpus[idx]["metadata"],
+            }
+
+    # Build final ranked list
+    ranked = sorted(rrf.keys(), key=lambda t: rrf[t], reverse=True)[:k]
+    output = []
+    for text in ranked:
+        chunk = dict(text_to_chunk[text])
+        chunk["rrf_score"] = round(rrf[text], 6)
+        bm25_idx = next(
+            (i for i, c in enumerate(corpus) if c["text"] == text), None
+        )
+        chunk["bm25_score"] = round(float(bm25_scores[bm25_idx]), 4) if bm25_idx is not None else 0.0
+        output.append(chunk)
 
     return output
 

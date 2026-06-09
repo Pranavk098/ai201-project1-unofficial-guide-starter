@@ -4,17 +4,29 @@ End-to-end RAG pipeline: retrieve → generate.
 `ask(question)` is the single entry point used by app.py and the CLI test.
 """
 
-from embed import retrieve
+from embed import retrieve, retrieve_hybrid
 from generate import generate
 
 
-def ask(question: str, k: int = 5, filters: dict | None = None) -> dict:
+def ask(
+    question: str,
+    k: int = 5,
+    filters: dict | None = None,
+    hybrid: bool = False,
+) -> dict:
     """
     Retrieve relevant chunks then generate a grounded answer.
 
+    Args:
+        hybrid: if True, use BM25 + semantic hybrid retrieval (RRF fusion).
+                if False (default), use semantic-only retrieval.
+
     Returns the dict from generate(): { answer, sources, chunks_used }
     """
-    chunks = retrieve(question, k=k, filters=filters)
+    if hybrid:
+        chunks = retrieve_hybrid(question, k=k, filters=filters)
+    else:
+        chunks = retrieve(question, k=k, filters=filters)
     return generate(question, chunks)
 
 

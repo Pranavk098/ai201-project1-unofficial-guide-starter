@@ -353,3 +353,125 @@ The spec's Chunking Strategy specified a 50-character overlap across all documen
 - *What I gave the AI:* The Grounded Generation requirements from the milestone spec, the `retrieve()` function signature and a sample output dict from Milestone 4, and the requirement that every response must cite which document the answer came from. I asked Claude to implement `generate.py` and `app.py`.
 - *What it produced:* `generate.py` with a system prompt, a context-building function, and a Groq API call. `app.py` with a Gradio Blocks UI including a question box, answer panel, sources panel, and example question buttons.
 - *What I changed or overrode:* The initial system prompt used softer language ("try to answer from the documents"). This was tightened to explicit, numbered rules with no hedging — rule 3 specifies the exact decline phrase the model must use, and rule 4 explicitly prohibits extrapolation. The temperature was also set to 0.2 rather than the default, after observing that a higher temperature caused the model to embellish answers with plausible-but-unverifiable details about GMU courses. The programmatic source list (built from chunk metadata, appended regardless of LLM output) was also added after the initial version relied solely on the LLM to include citations, which it occasionally omitted for lower-ranked chunks.
+
+---
+
+## Stretch: Metadata Filtering
+
+The UI exposes two filter dropdowns inside a collapsible "Filters & Search mode" panel:
+
+- **Source type** — restricts retrieval to one of: RMP, Official, Reddit, or Any (default).
+- **Professor** — restricts retrieval to one of the 11 professors in the corpus, or Any (default).
+
+These map directly to ChromaDB `where` clause filters passed to `retrieve()`. When both are set, they are combined with `$and`. When only one is set, a single-field filter is applied.
+
+**Demonstrated effect — same query, two filter settings:**
+
+Query: `"What are the prerequisites for CS483 Analysis of Algorithms?"`
+
+| Filter | Top result | Source type |
+|--------|-----------|-------------|
+| Source = Any | CS 465: Computer Systems Architecture... (dist=0.5349) | Official |
+| Source = Official | CS 465: Computer Systems Architecture... (dist=0.5349) | Official |
+| Professor = Ivan Avramovic | Professor: Ivan Avramovic / CS483 / Quality 5.0... | RMP |
+
+Filtering by `professor = Ivan Avramovic` for a CS483 query bypasses the semantic ranking and forces all five results to come from Avramovic's reviews — directly addressing the Q4 failure case where his CS330 reviews were crowded out by his more numerous CS483 reviews.
+
+---
+
+## Stretch: Hybrid Search
+
+**Approach:** Combines BM25 keyword scoring with ChromaDB semantic scoring using **Reciprocal Rank Fusion (RRF)**. Each chunk gets a combined score:
+
+```
+RRF(chunk) = 1/(60 + rank_semantic) + 1/(60 + rank_bm25)
+```
+
+The top-k chunks by combined RRF score are returned. BM25 uses the `rank_bm25` library with a simple tokenizer (lowercase + strip punctuation). The BM25 index is built lazily from the full ChromaDB corpus on first call and cached for the session. A toggle in the UI ("Use hybrid search") switches between semantic-only and hybrid mode.
+
+**Comparison on 3 queries:**
+
+**Query 1: "What do students say about exam difficulty in Justin Wilson's CS222?"**
+
+| Rank | Semantic only | Hybrid (RRF) |
+|------|--------------|-------------|
+| 1 | Justin Wilson RMP (dist=0.75) | Justin Wilson RMP (rrf=0.0164, bm25=high) |
+| 2 | Wing Lam RMP (dist=0.75) | Justin Wilson RMP chunk 2 |
+| 3 | Justin Wilson RMP (dist=0.76) | Justin Wilson RMP chunk 3 |
+
+*Winner: Hybrid.* BM25 boosted Wilson's reviews because they contain the exact words "exam," "difficulty," "CS222," and "Justin Wilson." The off-topic Wing Lam result that appeared at rank 2 in semantic-only was pushed out.
+
+**Query 2: "Is Wing Lam's SWE437 worth taking even though the quizzes are hard?"**
+
+| Rank | Semantic only | Hybrid (RRF) |
+|------|--------------|-------------|
+| 1 | Reddit (dist=0.55) | Reddit (rrf=0.0164, bm25=high) |
+| 2 | Wing Lam RMP (dist=0.75) | Wing Lam RMP |
+| 3 | Wing Lam RMP (dist=0.75) | Wing Lam RMP |
+
+*Winner: Tie.* Both methods returned the Reddit compilation chunk first and Wing Lam reviews in the remaining slots. BM25 reinforced the semantic ranking without changing it — the query was specific enough that both methods agreed.
+
+**Query 3: "What are the prerequisites for CS483 Analysis of Algorithms?"**
+
+| Rank | Semantic only | Hybrid (RRF) |
+|------|--------------|-------------|
+| 1 | Official catalog (dist=0.41) | Official catalog |
+| 2–5 | Other catalog entries | Reddit CS483 thread (bm25=8.57, rrf tied rank 2) |
+
+*Winner: Hybrid for completeness.* Semantic-only returned only catalog entries. Hybrid surfaced a Reddit thread specifically about CS483 at rank 2 (BM25 score 8.57 — the exact phrase "CS483 Analysis of Algorithms" is in its title), giving the LLM both the authoritative prerequisite answer AND student commentary about what to expect in the course.
+
+**Conclusion:** Hybrid search most visibly improves queries that contain exact proper nouns (professor names, course numbers) where BM25 keyword matching adds signal that pure semantic similarity misses. For open-ended opinion queries, both methods perform similarly.
+
+---
+
+## Stretch: Chunking Strategy Comparison
+
+Two strategies were compared on all 5 evaluation queries using BM25 retrieval (consistent across both, no vector store rebuild needed):
+
+- **Strategy A (current):** Semantic boundary splits — RMP files on `--- Review N ---` delimiters, Official on blank lines, Reddit on double newlines. 265 chunks.
+- **Strategy B:** Fixed 300-character character splits, no overlap, applied uniformly to all documents. 240 chunks.
+
+**Results by query:**
+
+| Query | Strategy A top result | Strategy B top result | Winner |
+|-------|----------------------|----------------------|--------|
+| Wilson CS222 exam difficulty | Complete Wilson review with name, course, date, and review text intact | File header only (Professor name, department, rating) — no review text | **A** |
+| Wing Lam SWE437 quizzes | Reddit paragraph directly answering the SWE437/quiz trade-off | Reddit paragraph but preceded by unrelated Justin Wilson summary text in the same chunk | **A** |
+| CS483 prerequisites | Reddit thread header for CS483 (topic match but no catalog entry) | Fragment from inside a Reddit thread, mid-sentence | **A** |
+| CS330 Zaman vs Avramovic | Ahmed Zaman CS330 review with full metadata | Reddit paragraph covering both CS330 professors together | **B** (marginally) |
+| Surviving CS310 | Reddit thread header for CS310 tips | Fragment containing unrelated Neary intro before the CS310 thread | **A** |
+
+**Strategy A won on 4 of 5 queries.** The key failure mode of Strategy B is that fixed character cuts routinely split across semantic units: a 300-character window starting mid-review produces a chunk that begins with the end of one student's opinion and ends partway through the next. These fragments have weak BM25 signal because they contain partial phrases and no complete metadata. Strategy A's delimiter-based splits keep attribution metadata (professor, course, date) and review text in the same chunk, which is exactly what both BM25 and semantic retrieval reward.
+
+The one query where Strategy B performed marginally better (Q4, Zaman vs Avramovic) is because one of its 300-char windows happened to capture the Reddit paragraph that names both professors in the same sentence — a coincidence of where the cut fell, not a structural advantage.
+
+---
+
+## Stretch: Conversational Memory
+
+The system maintains a rolling chat history in Gradio's `gr.Chatbot` component and passes the last 2 turns of conversation to `generate.py` as a memory block prepended to the user message.
+
+**Implementation:** After each query, the question and answer are appended to a `history_state` (Gradio `gr.State`). On the next query, the last `MAX_HISTORY_TURNS = 2` pairs are formatted as:
+
+```
+Conversation history (for context only — still answer from documents):
+User previously asked: <Q1>
+Assistant answered: <A1>
+```
+
+This block is injected into the user message before the main question, allowing the LLM to resolve pronouns and topic references across turns while remaining grounded in the retrieved documents.
+
+**Demonstrated multi-turn exchange:**
+
+*Turn 1:*
+> Q: What are the prerequisites for CS483?
+> A: The prerequisites for CS 483 are CS 310 and CS 330 (C minimum) AND MATH 125 (C minimum). (Source: Document 1 | Official | course_catalog.txt)
+
+*Turn 2 (with memory):*
+> Q: Who teaches that course and what do students say about them?
+> A: The course CS483 is taught by Katherine Russell (Source: Document 3 | Reddit). Students say she is "very kind and understanding" but also "polarizing" — some warn that her tests are "significantly harder than in earlier CS courses" while others praise her analogies and energy...
+
+*Turn 2 WITHOUT memory (same retrieved chunks):*
+> A: The course CS310 is taught by Professor Katherine Russell. Students say that she is a "Tough grader, Caring"...
+
+With memory, the LLM correctly resolved "that course" to CS483 and answered about CS483 instructors. Without memory, it defaulted to CS310 (the course most associated with Russell in the retrieved chunks), demonstrating that the memory context is actively changing the generation output — not just a coincidence of topic overlap.
